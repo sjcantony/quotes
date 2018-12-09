@@ -1,2733 +1,1120 @@
 [{
-		"quote": "never know what old age is. Let us know the happiness time brings, not count the years.",
-		"name": "Ausonius"
-	},
-	{
-		"quote": "Age is a case of mind over matter. If you don't mind, it don't matter.",
-		"name": "Satchel Paige"
-	},
-	{
-		"quote": "Youth is the gift of nature, but age is a work of art.",
-		"name": "Stanislaw Jerzy Lec"
-	},
-	{
-		"quote": "Another belief of mine; that everyone else my age is an adult, whereas I am merely in disguise.",
-		"name": "Margaret Atwood"
-	},
-	{
-		"quote": "Cherish all your happy moments; they make a fine cushion for old age.",
-		"name": "Booth Tarkington"
-	},
-	{
-		"quote": "Age is something that doesn't matter, unless you are a cheese.",
-		"name": "Luis Bunuel"
-	},
-	{
-		"quote": "I know not age, nor weariness nor defeat.",
-		"name": "Rose Kennedy"
-	},
-	{
-		"quote": "Do not go gentle into that good night but rage, rage against the dying of the light.",
-		"name": "Dylan Thomas"
-	},
-	{
-		"quote": "Try to keep your soul young and quivering right up to old age.",
-		"name": "George Sand"
-	},
-	{
-		"quote": "The secret of genius is to carry the spirit of the child into old age, which means never losing your enthusiasm.",
-		"name": "Aldous Huxley"
-	},
-	{
-		"quote": "In our age there is no such thing as 'keeping out of politics.' All issues are political issues, and politics itself is a mass of lies, evasions, folly, hatred and schizophrenia.",
-		"name": "George Orwell"
-	},
-	{
-		"quote": "A birthday is just another day where you go to work and people give you love. Age is just a state of mind, and you are as old as you think you are. You have to count your blessings and be happy.",
-		"name": "Abhishek Bachchan"
-	},
-	{
-		"quote": "Age and size are only numbers. It's the attitude you bring to clothes that make the difference.",
-		"name": "Donna Karan"
-	},
-	{
-		"quote": "Old minds are like old horses; you must exercise them if you wish to keep them in working order.",
-		"name": "John Adams"
-	},
-	{
-		"quote": "Marriage is not about age; it's about finding the right person.",
-		"name": "Sophia Bush"
-	},
-	{
-		"quote": "I'm very mature for my age, but I'm also innocent in a lot of ways.",
-		"name": "Kirsten Dunst"
-	},
-	{
-		"quote": "Aging is not lost youth but a new stage of opportunity and strength.",
-		"name": "Betty Friedan"
-	},
-	{
-		"quote": "Youth has no age.",
-		"name": "Pablo Picasso"
-	},
-	{
-		"quote": "You can't help getting older, but you don't have to get old.",
-		"name": "George Burns"
-	},
-	{
-		"quote": "To me - old age is always ten years older than I am.",
-		"name": "Bernard Baruch"
-	},
-	{
-		"quote": "When marrying, ask yourself this question: Do you believe that you will be able to converse well with this person into your old age? Everything else in marriage is transitory.",
-		"name": "Friedrich Nietzsche"
-	},
-	{
-		"quote": "Just remember, once you're over the hill you begin to pick up speed.",
-		"name": "Arthur Schopenhauer"
-	},
-	{
-		"quote": "Age appears to be best in four things; old wood best to burn, old wine to drink, old friends to trust, and old authors to read.",
-		"name": "Francis Bacon"
-	},
-	{
-		"quote": "Age is an issue of mind over matter. If you don't mind, it doesn't matter.",
-		"name": "Mark Twain"
-	},
-	{
-		"quote": "Age wrinkles the body. Quitting wrinkles the soul.",
-		"name": "Douglas MacArthur"
-	},
-	{
-		"quote": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
-		"name": "Lucille Ball"
-	},
-	{
-		"quote": "There is a plan and a purpose, a value to every life, no matter what its location, age, gender or disability.",
-		"name": "Sharron Angle"
-	},
-	{
-		"quote": "A diplomat is a man who always remembers a woman's birthday but never remembers her age.",
-		"name": "Robert Frost"
-	},
-	{
-		"quote": "Old age is like everything else. To make a success of it, you've got to start young.",
-		"name": "Theodore Roosevelt"
-	},
-	{
-		"quote": "Youth is a blunder; Manhood a struggle, Old Age a regret.",
-		"name": "Benjamin Disraeli"
-	},
-	{
-		"quote": "True terror is to wake up one morning and discover that your high school class is running the country.",
-		"name": "Kurt Vonnegut"
-	},
-	{
-		"quote": "My love for ice cream emerged at an early age - and has never left!",
-		"name": "Ginger Rogers"
-	},
-	{
-		"quote": "Forty is the old age of youth; fifty the youth of old age.",
-		"name": "Victor Hugo"
-	},
-	{
-		"quote": "Old age and treachery will always beat youth and exuberance.",
-		"name": "David Mamet"
-	},
-	{
-		"quote": "Age is the acceptance of a term of years.But maturity is the glory of years.",
-		"name": "Martha Graham"
-	},
-	{
-		"quote": "I think that our language, culture, age, fortune, property, and our fame is all a facade. In the end, we're all the same.",
-		"name": "Jenova Chen"
-	},
-	{
-		"quote": "I will never be an old man. To me, old age is always 15 years older than I am.",
-		"name": "Francis Bacon"
-	},
-	{
-		"quote": "Legend: A lie that has attained the dignity of age.",
-		"name": "H. L. Mencken"
-	},
-	{
-		"quote": "Men are like wine - some turn to vinegar, but the best improve with age.",
-		"name": "Pope John XXIII"
-	},
-	{
-		"quote": "When grace is joined with wrinkles, it is adorable. There is an unspeakable dawn in happy old age.",
-		"name": "Victor Hugo"
-	},
-	{
-		"quote": "Youth is the best time to be rich, and the best time to be poor.",
-		"name": "Euripides"
-	},
-	{
-		"quote": "The excitement of learning separates youth from old age. As long as you're learning you're not old.",
-		"name": "Rosalyn S. Yalow"
-	},
-	{
-		"quote": "Our movements and feelings are constantly monitored, because surveillance is the business model of the digital age.",
-		"name": "Katharine Viner"
-	},
-	{
-		"quote": "As I grow older, I pay less attention to what men say. I just watch what they do.",
-		"name": "Andrew Carnegie"
-	},
-	{
-		"quote": "Confusion of goals and perfection of means seems, in my opinion, to characterize our age.",
-		"name": "Albert Einstein"
-	},
-	{
-		"quote": "Common sense is the collection of prejudices acquired by age eighteen.",
-		"name": "Albert Einstein"
-	},
-	{
-		"quote": "There's a vintage which comes with age and experience.",
-		"name": "Jon Bon Jovi"
-	},
-	{
-		"quote": "We're not in an information age anymore. We're in the information management age.",
-		"name": "Chris Hardwick"
-	},
-	{
-		"quote": "It is surprising to notice that even from the earliest age, man finds the greatest satisfaction in feeling independent. The exalting feeling of being sufficient to oneself comes as a revelation.",
-		"name": "Maria Montessori"
-	},
-	{
-		"quote": "Be eccentric now. Don't wait for old age to wear purple.",
-		"name": "Regina Brett"
-	},
-	{
-		"quote": "Old age is just a record of one's whole life.",
-		"name": "Muhammad Ali"
-	},
-	{
-		"quote": "Old age is no place for sissies.",
-		"name": "Bette Davis"
-	},
-	{
-		"quote": "Age does not make us childish, as some say; it finds us true children.",
-		"name": "James Anthony Froude"
-	},
-	{
-		"quote": "Surrounding myself with beautiful women keeps me young.",
-		"name": "Hugh Hefner"
-	},
-	{
-		"quote": "There is a quiet about the life of a farmer, and the hope of a serene old age, that no other business or profession can promise.",
-		"name": "Robert Green Ingersoll"
-	},
-	{
-		"quote": "What makes old age hard to bear is not the failing of one's faculties, mental and physical, but the burden of one's memories.",
-		"name": "W. Somerset Maugham"
-	},
-	{
-		"quote": "I definitely don't look my age. So I actively look for roles that will help people change their perception of me.",
-		"name": "Elijah Wood"
-	},
-	{
-		"quote": "There is no longer a doubt that women are just as competent as men. Gender differences are guided by nurture, as society treats boys and girls differently from an early age.",
-		"name": "Naveen Jain"
-	},
-	{
-		"quote": "I think it's very hard in this day and age to raise little girls with morals, ethics and values, and them knowing that they are precious creations and that they are important.",
-		"name": "Angie Harmon"
-	},
-	{
-		"quote": "Robots will harvest, cook, and serve our food. They will work in our factories, drive our cars, and walk our dogs. Like it or not, the age of work is coming to an end.",
-		"name": "Gray Scott"
-	},
-	{
-		"quote": "Bullying, to me, starts very small around the kindergarten age where the first thing we learn is to call each other names. Something so small can be so long lasting in someone's life.",
-		"name": "Shane Koyczan"
-	},
-	{
-		"quote": "Wrinkles should merely indicate where smiles have been.",
-		"name": "Mark Twain"
-	},
-	{
-		"quote": "In youth we learn; in age we understand.",
-		"name": "Marie von Ebner-Eschenbach"
-	},
-	{
-		"quote": "Old age: the crown of life, our play's last act.",
-		"name": "Marcus Tullius Cicero"
-	},
-	{
-		"quote": "Makeup can make a woman look more beautiful at every age.",
-		"name": "Francois Nars"
-	},
-	{
-		"quote": "Many believe - and I believe - that I have been designated for this work by God. In spite of my old age, I do not want to give it up; I work out of love for God and I put all my hope in Him.",
-		"name": "Michelangelo"
-	},
-	{
-		"quote": "I'm at the age where food has taken the place of sex in my life. In fact, I've just had a mirror put over my kitchen table.",
-		"name": "Rodney Dangerfield"
-	},
-	{
-		"quote": "As men get older, the toys get more expensive.",
-		"name": "Marvin Davis"
-	},
-	{
-		"quote": "Youth cannot know how age thinks and feels. But old men are guilty if they forget what it was to be young.",
-		"name": "J. K. Rowling"
-	},
-	{
-		"quote": "Better pass boldly into that other world, in the full glory of some passion, than fade and wither dismally with age.",
-		"name": "James Joyce"
-	},
-	{
-		"quote": "In an age when so many groups are rolling out restaurants faster than your local baker makes donuts, my goal is that each restaurant feels hand-crafted. That they have their own soul.",
-		"name": "Danny Meyer"
-	},
-	{
-		"quote": "The age of a woman doesn't mean a thing. The best tunes are played on the oldest fiddles.",
-		"name": "Ralph Waldo Emerson"
-	},
-	{
-		"quote": "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.",
-		"name": "Henry Ford"
-	},
-	{
-		"quote": "Love has no age, no limit; and no death.",
-		"name": "John Galsworthy"
-	},
-	{
-		"quote": "If youth knew; if age could.",
-		"name": "Sigmund Freud"
-	},
-	{
-		"quote": "Old age, believe me, is a good and pleasant thing. It is true you are gently shouldered off the stage, but then you are given such a comfortable front stall as spectator.",
-		"name": "Confucius"
-	},
-	{
-		"quote": "The trick is growing up without growing old.",
-		"name": "Casey Stengel"
-	},
-	{
-		"quote": "In this electronic age we see ourselves being translated more and more into the form of information, moving toward the technological extension of consciousness.",
-		"name": "Marshall McLuhan"
-	},
-	{
-		"quote": "The pace at which people are taking to digital technology defies our stereotypes of age, education, language and income.",
-		"name": "Narendra Modi"
-	},
-	{
-		"quote": "The old believe everything, the middle-aged suspect everything, the young know everything.",
-		"name": "Oscar Wilde"
-	},
-	{
-		"quote": "I understood at a very early age that in nature, I felt everything I should feel in church but never did. Walking in the woods, I felt in touch with the universe and with the spirit of the universe.",
-		"name": "Alice Walker"
-	},
-	{
-		"quote": "Dissents speak to a future age.",
-		"name": "Ruth Bader Ginsburg"
-	},
-	{
-		"quote": "The ruling ideas of each age have ever been the ideas of its ruling class.",
-		"name": "Karl Marx"
-	},
-	{
-		"quote": "At the age of 18, I made up my mind to never have another bad day in my life. I dove into a endless sea of gratitude from which I've never emerged.",
-		"name": "Patch Adams"
-	},
-	{
-		"quote": "Age considers; youth ventures.",
-		"name": "Rabindranath Tagore"
-	},
-	{
-		"quote": "Middle age is when you're sitting at home on a Saturday night and the telephone rings and you hope it isn't for you.",
-		"name": "Ogden Nash"
-	},
-	{
-		"quote": "Preparation for old age should begin not later than one's teens. A life which is empty of purpose until 65 will not suddenly become filled on retirement.",
-		"name": "Dwight L. Moody"
-	},
-	{
-		"quote": "We aren't in an information age, we are in an entertainment age.",
-		"name": "Tony Robbins"
-	},
-	{
-		"quote": "You are as young as your self-confidence, as old as your fears; as young as your hope, as old as your despair.",
-		"name": "Samuel Ullman"
-	},
-	{
-		"quote": "It is not the young people that degenerate; they are not spoiled till those of mature age are already sunk into corruption.",
-		"name": "Charles de Montesquieu"
-	},
-	{
-		"quote": "We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.",
-		"name": "Frank Abagnale"
-	},
-	{
-		"quote": "The teacher's life should have three periods, study until twenty-five, investigation until forty, profession until sixty, at which age I would have him retired on a double allowance.",
-		"name": "William Osler"
-	},
-	{
-		"quote": "Difficult choices, unlike red wine, rarely improve with age.",
-		"name": "Richard N. Haass"
-	},
-	{
-		"quote": "I think a child should be allowed to take his father's or mother's name at will on coming of age. Paternity is a legal fiction.",
-		"name": "James Joyce"
-	},
-	{
-		"quote": "Lord save us all from old age and broken health and a hope tree that has lost the faculty of putting out blossoms.",
-		"name": "Mark Twain"
-	},
-	{
-		"quote": "Old age is not a disease - it is strength and survivorship, triumph over all kinds of vicissitudes and disappointments, trials and illnesses.",
-		"name": "Maggie Kuhn"
-	},
-	{
-		"quote": "If you age with somebody, you go through so many roles - you're lovers, friends, enemies, colleagues, strangers; you're brother and sister. That's what intimacy is, if you're with your soulmate.",
-		"name": "Cate Blanchett"
-	},
-	{
-		"quote": "None are so old as those who have outlived enthusiasm.",
-		"name": "Henry David Thoreau"
-	},
-	{
-		"quote": "I have been fighting from a very young age. There is no fear there. It helped me cultivate the mindset of a fighter.",
-		"name": "Ritika Singh"
-	},
-	{
-		"quote": "I'm happy to report that my inner child is still ageless.",
-		"name": "James Broughton"
-	},
-	{
-		"quote": "The harvest of old age is the recollection and abundance of blessing previously secured.",
-		"name": "Marcus Tullius Cicero"
-	},
-	{
-		"quote": "It's sad, actually, because my anxiety keeps me from enjoying things as much as I should at this age.",
-		"name": "Amanda Seyfried"
-	},
-	{
-		"quote": "Age is just a number. Life and aging are the greatest gifts that we could possibly ever have.",
-		"name": "Cicely Tyson"
-	},
-	{
-		"quote": "Age does not protect you from love. But love, to some extent, protects you from age.",
-		"name": "Anais Nin"
-	},
-	{
-		"quote": "Old age may have its limitations and challenges, but in spite of them, our latter years can be some of the most rewarding and fulfilling of our lives.",
-		"name": "Billy Graham"
-	},
-	{
-		"quote": "But now in this day and age, people are more prone to go out to try new things to enhance their performance on the field - to enhance their physical appearance.",
-		"name": "Bo Jackson"
-	},
-	{
-		"quote": "Age is whatever you think it is. You are as old as you think you are.",
-		"name": "Muhammad Ali"
-	},
-	{
-		"quote": "Fitness has nothing to do with age.",
-		"name": "Virender Sehwag"
-	},
-	{
-		"quote": "I think the only time I show my emotions and anger is on the cricket field; otherwise, I've mellowed down. And with age, I think, with age you always end up mellowing down.",
-		"name": "Gautam Gambhir"
-	},
-	{
-		"quote": "From a young age, I was rubbing elbows with a very different kind of person and social class, and I felt a lot of tension and conflict in my identity because of that.",
-		"name": "David Lindsay-Abaire"
-	},
-	{
-		"quote": "Some age, others mature.",
-		"name": "Sean Connery"
-	},
-	{
-		"quote": "The great secret that all old people share is that you really haven't changed in seventy or eighty years. Your body changes, but you don't change at all. And that, of course, causes great confusion.",
-		"name": "Doris Lessing"
-	},
-	{
-		"quote": "Age is no barrier. It's a limitation you put on your mind.",
-		"name": "Jackie Joyner-Kersee"
-	},
-	{
-		"quote": "Let no one be slow to seek wisdom when he is young nor weary in the search of it when he has grown old. For no age is too early or too late for the health of the soul.",
-		"name": "Epicurus"
-	},
-	{
-		"quote": "With age comes common sense and wisdom.",
-		"name": "Nas"
-	},
-	{
-		"quote": "At my age flowers scare me.",
-		"name": "George Burns"
-	},
-	{
-		"quote": "A lot of my childhood memories involve walking home in floods of tears. At that age, feeling unpopular is difficult to handle.",
-		"name": "Rachel Stevens"
-	},
-	{
-		"quote": "In age of consumerism and materialism, I traffic in blue sky and colored air.",
-		"name": "James Turrell"
-	},
-	{
-		"quote": "Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.",
-		"name": "Albert Einstein"
-	},
-	{
-		"quote": "Education is the best provision for old age.",
-		"name": "Aristotle"
-	},
-	{
-		"quote": "Hesitation increases in relation to risk in equal proportion to age.",
-		"name": "Ernest Hemingway"
-	},
-	{
-		"quote": "If you're old, don't try to change yourself, change your environment.",
-		"name": "B. F. Skinner"
-	},
-	{
-		"quote": "Old age is like a plane flying through a storm. Once you're aboard, there's nothing you can do.",
-		"name": "Golda Meir"
-	},
-	{
-		"quote": "My father was very energetic; my mother was very energetic. He lived to a very old age, and so did my mother. I believe that I just have it from my father, from my parents. They had wonderful energy.",
-		"name": "Donald Trump"
-	},
-	{
-		"quote": "I've never been particularly aware of my age. It's like being on a bicycle - I just put my foot down and keep going.",
-		"name": "Angela Lansbury"
-	},
-	{
-		"quote": "Adults are obsolete children.",
-		"name": "Dr. Seuss"
-	},
-	{
-		"quote": "Youth is wasted on the young.",
-		"name": "George Bernard Shaw"
-	},
-	{
-		"quote": "Thirty was so strange for me. I've really had to come to terms with the fact that I am now a walking and talking adult.",
-		"name": "C. S. Lewis"
-	},
-	{
-		"quote": "Basically, when you get to my age, you'll really measure your success in life by how many of the people you want to have love you actually do love you.",
-		"name": "Warren Buffett"
-	},
-	{
-		"quote": "He who is of calm and happy nature will hardly feel the pressure of age, but to him who is of an opposite disposition youth and age are equally a burden.",
-		"name": "Plato"
-	},
-	{
-		"quote": "Every great architect is - necessarily - a great poet. He must be a great original interpreter of his time, his day, his age.",
-		"name": "Frank Lloyd Wright"
-	},
-	{
-		"quote": "To keep the heart unwrinkled, to be hopeful, kindly, cheerful, reverent that is to triumph over old age.",
-		"name": "Amos Bronson Alcott"
-	},
-	{
-		"quote": "To explain all nature is too difficult a task for any one man or even for any one age. 'Tis much better to do a little with certainty &amp; leave the rest for others that come after you.",
-		"name": "Isaac Newton"
-	},
-	{
-		"quote": "Old age and the passage of time teach all things.",
-		"name": "Sophocles"
-	},
-	{
-		"quote": "Let us be shy no longer. Let us go to our strength. Let us offer hope. Let us tell the world that a new age is not only possible but probable.",
-		"name": "Ronald Reagan"
-	},
-	{
-		"quote": "Growing old is no more than a bad habit which a busy person has no time to form.",
-		"name": "Andre Maurois"
-	},
-	{
-		"quote": "My view is that at a younger age your optimism is more and you have more imagination etc. You have less bias.",
-		"name": "A. P. J. Abdul Kalam"
-	},
-	{
-		"quote": "It is utterly false and cruelly arbitrary to put all the play and learning into childhood, all the work into middle age, and all the regrets into old age.",
-		"name": "Margaret Mead"
-	},
-	{
-		"quote": "A truly great book should be read in youth, again in maturity and once more in old age, as a fine building should be seen by morning light, at noon and by moonlight.",
-		"name": "Robertson Davies"
-	},
-	{
-		"quote": "To me, age doesn't make a difference in terms of how playful or fun life can be.",
-		"name": "Brit Morin"
-	},
-	{
-		"quote": "Let age, not envy, draw wrinkles on thy cheeks.",
-		"name": "Thomas Browne"
-	},
-	{
-		"quote": "I think that age as a number is not nearly as important as health. You can be in poor health and be pretty miserable at 40 or 50. If you're in good health, you can enjoy things into your 80s.",
-		"name": "Bob Barker"
-	},
-	{
-		"quote": "Your timeless self does not age and has no fear of the future. Contemplate your physical self and all its possessions, and practice laughing peacefully at it all.",
-		"name": "Wayne Dyer"
-	},
-	{
-		"quote": "I think it's your mental attitude. So many of us start dreading age in high school and that's a waste of a lovely life. 'Oh... I'm 30, oh, I'm 40, oh, 50.' Make the most of it.",
-		"name": "Betty White"
-	},
-	{
-		"quote": "A comfortable old age is the reward of a well-spent youth. Instead of its bringing sad and melancholy prospects of decay, it would give us hopes of eternal youth in a better world.",
-		"name": "Maurice Chevalier"
-	},
-	{
-		"quote": "I knew what I wanted to do in sport from the age of nine.",
-		"name": "Magdalena Neuner"
-	},
-	{
-		"quote": "I'm a trained fine artist. I went to art school from the time I was 5 years old. I was, like, a prodigy out of Chicago. I'd been in national competitions from the age of 14.",
-		"name": "Kanye West"
-	},
-	{
-		"quote": "Here's my Golden Rule for a tarnished age: Be fair with others, but keep after them until they're fair with you.",
-		"name": "Alan Alda"
-	},
-	{
-		"quote": "Old age is the most unexpected of all things that happen to a man.",
-		"name": "Leon Trotsky"
-	},
-	{
-		"quote": "I read all the time that people think I'm arrogant. They say I am cocky, a bad character. I had that from a young age. But when they meet me, they say, 'That image doesn't fit you.'",
-		"name": "Zlatan Ibrahimovic"
-	},
-	{
-		"quote": "It is not how old you are, but how you are old.",
-		"name": "Jules Renard"
-	},
-	{
-		"quote": "Age imprints more wrinkles in the mind than it does on the face.",
-		"name": "Michel de Montaigne"
-	},
-	{
-		"quote": "Inflation is when you pay fifteen dollars for the ten-dollar haircut you used to get for five dollars when you had hair.",
-		"name": "Sam Ewing"
-	},
-	{
-		"quote": "It feels like there's something for everyone in video games. It's not just a toy for a certain age group. It's steeped in the culture now.",
-		"name": "Rich Moore"
-	},
-	{
-		"quote": "The golden age is before us, not behind us.",
-		"name": "Simon the Zealot"
-	},
-	{
-		"quote": "I think age is a very high price to pay for maturity.",
-		"name": "Tom Stoppard"
-	},
-	{
-		"quote": "What Youth deemed crystal, Age finds out was dew.",
-		"name": "Robert Browning"
-	},
-	{
-		"quote": "I think love can happen at any age... it has no age.",
-		"name": "Shah Rukh Khan"
-	},
-	{
-		"quote": "Living in an age of advertisement, we are perpetually disillusioned. The perfect life is spread before us every day, but it changes and withers at a touch.",
-		"name": "J. B. Priestley"
-	},
-	{
-		"quote": "I was lucky to move around different cultures at an early age and have experience of different lifestyles.",
-		"name": "Paolo Nutini"
-	},
-	{
-		"quote": "Everybody is playing games. There are games now for pretty much every age, every demographic.",
-		"name": "Jesse Schell"
-	},
-	{
-		"quote": "Sex at age 90 is like trying to shoot pool with a rope.",
-		"name": "George Burns"
-	},
-	{
-		"quote": "The age of chivalry is past. Bores have succeeded to dragons.",
-		"name": "Charles Dickens"
-	},
-	{
-		"quote": "Nobody grows old merely by living a number of years. We grow old by deserting our ideals. Years may wrinkle the skin, but to give up enthusiasm wrinkles the soul.",
-		"name": "Samuel Ullman"
-	},
-	{
-		"quote": "A grownup is a child with layers on.",
-		"name": "Woody Harrelson"
-	},
-	{
-		"quote": "Industrialization based on machinery, already referred to as a characteristic of our age, is but one aspect of the revolution that is being wrought by technology.",
-		"name": "Emily Greene Balch"
-	},
-	{
-		"quote": "The age of chivalry has gone; the age of humanity has come.",
-		"name": "Charles Sumner"
-	},
-	{
-		"quote": "Privacy is one of the biggest problems in this new electronic age.",
-		"name": "Andy Grove"
-	},
-	{
-		"quote": "The philosophies of one age have become the absurdities of the next, and the foolishness of yesterday has become the wisdom of tomorrow.",
-		"name": "William Osler"
-	},
-	{
-		"quote": "We will not continue to be in the post-'79 era. That age is over.",
-		"name": "Mohammad bin Salman"
-	},
-	{
-		"quote": "Everyone talks about age, but it's not about age. It's about work ethic. Winning never gets old.",
-		"name": "Lisa Leslie"
-	},
-	{
-		"quote": "The great thing about show business is that there's no mandatory retirement age.",
-		"name": "Scott Bakula"
-	},
-	{
-		"quote": "Old age is the most unexpected of all the things that can happen to a man.",
-		"name": "James Thurber"
-	},
-	{
-		"quote": "What could be more beautiful than a dear old lady growing wise with age? Every age can be enchanting, provided you live within it.",
-		"name": "Brigitte Bardot"
-	},
-	{
-		"quote": "I've always considered myself a fairly romantic person. I believe in love and falling in love at a young age.",
-		"name": "Mandy Moore"
-	},
-	{
-		"quote": "With each year I experience, I become more relaxed. I know now what is important to listen to and what to ignore. You only get that with age.",
-		"name": "Caster Semenya"
-	},
-	{
-		"quote": "In every age and every man there is something to praise as well as to blame.",
-		"name": "James Beattie"
-	},
-	{
-		"quote": "A man loves the meat in his youth that he cannot endure in his age.",
-		"name": "William Shakespeare"
-	},
-	{
-		"quote": "The heresy of one age becomes the orthodoxy of the next.",
-		"name": "Helen Keller"
-	},
-	{
-		"quote": "At twenty years of age the will reigns; at thirty, the wit; and at forty, the judgment.",
-		"name": "Benjamin Franklin"
-	},
-	{
-		"quote": "Loving someone liberates the lover as well as the beloved. And that kind of love comes with age.",
-		"name": "Maya Angelou"
-	},
-	{
-		"quote": "With age comes the understanding and appreciation of your most important asset, your health.",
-		"name": "Oprah Winfrey"
-	},
-	{
-		"quote": "Youth is in a grand flush, like the hot days of ending summer; and pleasant dreams thrall your spirit, like the smoky atmosphere that bathes the landscape of an August day.",
-		"name": "Donald G. Mitchell"
-	},
-	{
-		"quote": "You can fake your age or mask it, but the passion that moves the characters has to be real.",
-		"name": "Victoria Abril"
-	},
-	{
-		"quote": "The finest lesson I've learned with age is that all I need is a small team of comrades who inspire me, try not to judge me, and remind me when I'm judging myself.",
-		"name": "Lake Bell"
-	},
-	{
-		"quote": "The arrogance of age must submit to be taught by youth.",
-		"name": "Edmund Burke"
-	},
-	{
-		"quote": "Sometimes I think it would be easier to avoid old age, to die young, but then you'd never complete your life, would you? You'd never wholly know you.",
-		"name": "Marilyn Monroe"
-	},
-	{
-		"quote": "As technology advances, it reverses the characteristics of every situation again and again. The age of automation is going to be the age of 'do it yourself.'",
-		"name": "Marshall McLuhan"
-	},
-	{
-		"quote": "When it comes to age, I just feel like puberty is, like, the most horrible time of anyone's life.",
-		"name": "Sam Smith"
-	},
-	{
-		"quote": "I must confess, I was born at a very early age.",
-		"name": "Groucho Marx"
-	},
-	{
-		"quote": "I don't need you to remind me of my age. I have a bladder to do that for me.",
-		"name": "Stephen Fry"
-	},
-	{
-		"quote": "Age is just a number. It's totally irrelevant unless, of course, you happen to be a bottle of wine.",
-		"name": "Joan Collins"
-	},
-	{
-		"quote": "I don't believe one grows older. I think that what happens early on in life is that at a certain age one stands still and stagnates.",
-		"name": "T. S. Eliot"
-	},
-	{
-		"quote": "How young can you die of old age?",
-		"name": "Steven Wright"
-	},
-	{
-		"quote": "In play, a child is always above his average age, above his daily behavior; in play, it is as though he were a head taller than himself.",
-		"name": "Lev Vygotsky"
-	},
-	{
-		"quote": "There are only three things that can kill a farmer: lightning, rolling over in a tractor, and old age.",
-		"name": "Bill Bryson"
-	},
-	{
-		"quote": "Though the Jazz Age continued it became less and less an affair of youth. The sequel was like a children's party taken over by the elders.",
-		"name": "F. Scott Fitzgerald"
-	},
-	{
-		"quote": "I embrace old age. Look, I'm never going to dunk on LeBron James, and I've learned to accept that. I got a pretty good life, and I'm very fortunate, and I have my blessings.",
-		"name": "Mark Wahlberg"
-	},
-	{
-		"quote": "Books were my pass to personal freedom. I learned to read at age three, and soon discovered there was a whole world to conquer that went beyond our farm in Mississippi.",
-		"name": "Oprah Winfrey"
-	},
-	{
-		"quote": "I don't think of myself as a poor deprived ghetto girl who made good. I think of myself as somebody who from an early age knew I was responsible for myself, and I had to make good.",
-		"name": "Oprah Winfrey"
-	},
-	{
-		"quote": "You get to a certain age where you prepare yourself for happiness. Sometimes you never remember to actually get happy.",
-		"name": "John Mayer"
-	},
-	{
-		"quote": "Publishing is in a kind of Jurassic age.",
-		"name": "Paulo Coelho"
-	},
-	{
-		"quote": "Scripture is filled with examples of men and women whom God used late in life, often with great impact - men and women who refused to use old age as an excuse to ignore what God wanted them to do.",
-		"name": "Billy Graham"
-	},
-	{
-		"quote": "In choosing a hypothesis there is no virtue in being timid. I clearly would have been burned at the stake in another age.",
-		"name": "Thomas Gold"
-	},
-	{
-		"quote": "American youth attributes much more importance to arriving at driver's license age than at voting age.",
-		"name": "Marshall McLuhan"
-	},
-	{
-		"quote": "For me, the end of childhood came when the number of candles on my birthday cake no longer reflected my age, around 19 or 20. From then on, each candle came to represent an entire decade.",
-		"name": "Yotam Ottolenghi"
-	},
-	{
-		"quote": "If you love someone, you love someone. It doesn't matter; age, colour, c'mon!",
-		"name": "Sam Taylor-Johnson"
-	},
-	{
-		"quote": "If you haven't turned rebel by twenty you've got no heart; if you haven't turned establishment by thirty you've got no brains!",
-		"name": "Kevin Spacey"
-	},
-	{
-		"quote": "A woman has the age she deserves.",
-		"name": "Coco Chanel"
-	},
-	{
-		"quote": "It's a great thing to live in a digital age. It's convenient; it's fast.",
-		"name": "Loretta Lynch"
-	},
-	{
-		"quote": "The one thing that unites all human beings, regardless of age, gender, religion or ethnic background, is that we all believe we are above-average drivers.",
-		"name": "Dave Barry"
-	},
-	{
-		"quote": "No matter what age you are, or what your circumstances might be, you are special, and you still have something unique to offer. Your life, because of who you are, has meaning.",
-		"name": "Barbara De Angelis"
-	},
-	{
-		"quote": "In every age 'the good old days' were a myth. No one ever thought they were good at the time. For every age has consisted of crises that seemed intolerable to the people who lived through them.",
-		"name": "Brooks Atkinson"
-	},
-	{
-		"quote": "Age is inevitable. Aging isn't.",
-		"name": "Marv Levy"
-	},
-	{
-		"quote": "Old age isn't a battle; old age is a massacre.",
-		"name": "Philip Roth"
-	},
-	{
-		"quote": "We live in an age of technology and science that demands proof, and yet we desire mystery. But when God gives us mystery, we seek to destroy it by gross indifference or childish reasoning.",
-		"name": "Mother Angelica"
-	},
-	{
-		"quote": "Stone Age. Bronze Age. Iron Age. We define entire epics of humanity by the technology they use.",
-		"name": "Reed Hastings"
-	},
-	{
-		"quote": "I'll tell you, there is nothing better in life than being a late bloomer. I believe that success can happen at any time and at any age.",
-		"name": "Salma Hayek"
-	},
-	{
-		"quote": "The biggest disease this day and age is that of people feeling unloved.",
-		"name": "Princess Diana"
-	},
-	{
-		"quote": "Old age isn't so bad when you consider the alternative.",
-		"name": "Maurice Chevalier"
-	},
-	{
-		"quote": "People do not realize that Alzheimer's is not old age. It is a progressive and fatal disease and staggering amounts of people develop Alzheimer's every day.",
-		"name": "Melina Kanakaredes"
-	},
-	{
-		"quote": "Minds ripen at very different ages.",
-		"name": "Stevie Wonder"
-	},
-	{
-		"quote": "A man does not die of love or his liver or even of old age; he dies of being a man.",
-		"name": "Miguel de Unamuno"
-	},
-	{
-		"quote": "I'd always tried to resist playing the supervirility thing. I liked showing the vulnerability of age.",
-		"name": "Clint Eastwood"
-	},
-	{
-		"quote": "Age is not measured by years. Nature does not equally distribute energy. Some people are born old and tired while others are going strong at seventy.",
-		"name": "Dorothy Thompson"
-	},
-	{
-		"quote": "A man who correctly guesses a woman's age may be smart, but he's not very bright.",
-		"name": "Lucille Ball"
-	},
-	{
-		"quote": "In the television age, the key distinction is between the candidate who can speak poetry and the one who can only speak prose.",
-		"name": "Richard M. Nixon"
-	},
-	{
-		"quote": "In youth we run into difficulties. In old age difficulties run into us.",
-		"name": "Josh Billings"
-	},
-	{
-		"quote": "When a man understands the art of seeing, he can trace the spirit of an age and the features of a king even in the knocker on a door.",
-		"name": "Victor Hugo"
-	},
-	{
-		"quote": "With age, you get to a place where you don't want to knock people out. You just want to give people a hug.",
-		"name": "Vin Diesel"
-	},
-	{
-		"quote": "Age is strictly a case of mind over matter. If you don't mind, it doesn't matter.",
-		"name": "Jack Benny"
-	},
-	{
-		"quote": "For me, love is endless, and love has no age limit.",
-		"name": "Khalid"
-	},
-	{
-		"quote": "No man was ever so completely skilled in the conduct of life, as not to receive new information from age and experience.",
-		"name": "Jonathan Swift"
-	},
-	{
-		"quote": "As time goes by and you're getting older and stuff like that - getting older sucks. You know, I hear all this crap about, 'Oh, you can age with dignity.' Really?",
-		"name": "Mickey Rourke"
-	},
-	{
-		"quote": "Youth is the time of getting, middle age of improving, and old age of spending.",
-		"name": "Anne Bradstreet"
-	},
-	{
-		"quote": "From birth to age 18 a girl needs good parents. From 18 to 35 she needs good looks. From 35 to 55 she needs a good personality. From 55 on, she needs good cash.",
-		"name": "Sophie Tucker"
-	},
-	{
-		"quote": "Age is something only in your head or a stereotype. Age means nothing when you are passionate about something.",
-		"name": "Carolina Herrera"
-	},
-	{
-		"quote": "The people who live in a golden age usually go around complaining how yellow everything looks.",
-		"name": "Randall Jarrell"
-	},
-	{
-		"quote": "Down through the ages, there has always been the spiritual path. It's been passed on - it always will be - and if anybody ever wants it in any age, it's always there.",
-		"name": "George Harrison"
-	},
-	{
-		"quote": "I have always paid income tax. I object only when it reaches a stage when I am threatened with having nothing left for my old age - which is due to start next Tuesday or Wednesday.",
-		"name": "Noel Coward"
-	},
-	{
-		"quote": "Middle age is when your broad mind and narrow waist begin to change places.",
-		"name": "E. Joseph Cossman"
-	},
-	{
-		"quote": "At age 11, I went to a Jewish school. I speak Yiddish. I'm Church of England Protestant. My father was Catholic, and my mother was Protestant. My wife is a Muslim.",
-		"name": "Michael Caine"
-	},
-	{
-		"quote": "At about an age when most children start full time schooling, hundreds of thousands of their contemporaries start a lifetime of drudgery in factories and fields, working 12-16 hours daily.",
-		"name": "Kailash Satyarthi"
-	},
-	{
-		"quote": "Some broad themes brought me where I am today. At a very young age, my hobby became thinking and finding connections.",
-		"name": "Dean Kamen"
-	},
-	{
-		"quote": "In the information age, you don't teach philosophy as they did after feudalism. You perform it. If Aristotle were alive today he'd have a talk show.",
-		"name": "Timothy Leary"
-	},
-	{
-		"quote": "There are no college courses to build up self-esteem or high school or elementary school. If you don't get those values at a early age, nurtured in your home, you don't get them.",
-		"name": "T. D. Jakes"
-	},
-	{
-		"quote": "So, you know, I think the age of exploration is just beginning, not ending, on our planet.",
-		"name": "Robert Ballard"
-	},
-	{
-		"quote": "There is always some chance of recession in any year. But the evidence suggests that expansions don't die of old age.",
-		"name": "Janet Yellen"
-	},
-	{
-		"quote": "But an old age serene and bright, and lovely as a Lapland night, shall lead thee to thy grave.",
-		"name": "William Wordsworth"
-	},
-	{
-		"quote": "We're seeing the arrival of conversational robots that can walk in our world. It's a golden age of invention.",
-		"name": "David Hanson"
-	},
-	{
-		"quote": "In this age of globalization, instant real time media and television, everyone all over the world realizes that high energy usage equates with a high standard of living and wealth.",
-		"name": "John Olver"
-	},
-	{
-		"quote": "When you start being enthusiastic about whatever it is you like, that is the golden age for you.",
-		"name": "Michael Winterbottom"
-	},
-	{
-		"quote": "I got to experience soccer at the highest level at a young age; I decided I wanted to be part of that for as long as possible.",
-		"name": "Mia Hamm"
-	},
-	{
-		"quote": "In this day and age, when you can use a machine or computer to simulate or emulate what people can do together, it still can't replace the magic of four people in a room playing.",
-		"name": "Dave Grohl"
-	},
-	{
-		"quote": "I've always loved music and was singing from the age of seven on karaoke.",
-		"name": "Christina Grimmie"
-	},
-	{
-		"quote": "Every age has its happiness and troubles.",
-		"name": "Jeanne Calment"
-	},
-	{
-		"quote": "Every time I paint a portrait I lose a friend.",
-		"name": "John Singer Sargent"
-	},
-	{
-		"quote": "Prom has all the elements of a popular story. It reeks of all-Americanness, tension, drama. It has romance. Pretty dresses. Dancing. Limos. High school. Coming of age.",
-		"name": "Adora Svitak"
-	},
-	{
-		"quote": "You can bring your children under age 18 into the voting booth with you. Many families do so as a way to teach civic responsibility.",
-		"name": "Christine Pelosi"
-	},
-	{
-		"quote": "A lot of people who start work at a very young age never grow up because they never got that opportunity to be a child, so they hold on to that and still do a lot of childish, silly things.",
-		"name": "Janet Jackson"
-	},
-	{
-		"quote": "Oh, if I had been loved at the age of seventeen, what an idiot I would be today. Happiness is like smallpox: if you catch it too soon, it can completely ruin your constitution.",
-		"name": "Gustave Flaubert"
-	},
-	{
-		"quote": "Your body actually reminds you about your age and your injuries - the body has a stronger memory than your mind.",
-		"name": "Mikhail Baryshnikov"
-	},
-	{
-		"quote": "Age is how we determine how valuable you are.",
-		"name": "Jane Elliot"
-	},
-	{
-		"quote": "The denunciation of the young is a necessary part of the hygiene of older people, and greatly assists the circulation of the blood.",
-		"name": "Logan Pearsall Smith"
-	},
-	{
-		"quote": "Middle age is the awkward period when Father Time starts catching up with Mother Nature.",
-		"name": "Harold Coffin"
-	},
-	{
-		"quote": "My mom, she's a breast cancer survivor and because of that I had started getting mammograms once a year, starting at age 30.",
-		"name": "Kate Walsh"
-	},
-	{
-		"quote": "Some say that the age of chivalry is past, that the spirit of romance is dead. The age of chivalry is never past, so long as there is a wrong left unredressed on earth.",
-		"name": "Charles Kingsley"
-	},
-	{
-		"quote": "'Night Mail' belongs quintessentially to the age of steam.It is impossible to simply go with the idea of remaking it.",
-		"name": "Tony Harrison"
-	},
-	{
-		"quote": "After thirty, a body has a mind of its own.",
-		"name": "Bette Midler"
-	},
-	{
-		"quote": "Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen.",
-		"name": "Mark Twain"
-	},
-	{
-		"quote": "Bad news isn't wine. It doesn't improve with age.",
-		"name": "Colin Powell"
-	},
-	{
-		"quote": "As human beings, our greatness lies not so much in being able to remake the world - that is the myth of the atomic age - as in being able to remake ourselves.",
-		"name": "Mahatma Gandhi"
-	},
-	{
-		"quote": "For age is opportunity no less Than youth itself, though in another dress, And as the evening twilight fades away The sky is filled with stars, invisible by day.",
-		"name": "Henry Wadsworth Longfellow"
-	},
-	{
-		"quote": "All diseases run into one, old age.",
-		"name": "Ralph Waldo Emerson"
-	},
-	{
-		"quote": "Each age, it is found, must write its own books; or rather, each generation for the next succeeding.",
-		"name": "Ralph Waldo Emerson"
-	},
-	{
-		"quote": "Every formula of every religion has in this age of reason, to submit to the acid test of reason and universal assent.",
-		"name": "Mahatma Gandhi"
-	},
-	{
-		"quote": "Old age has deformities enough of its own. It should never add to them the deformity of vice.",
-		"name": "Eleanor Roosevelt"
-	},
-	{
-		"quote": "Bashfulness is an ornament to youth, but a reproach to old age.",
-		"name": "Aristotle"
-	},
-	{
-		"quote": "We prefer world law in the age of self-determination to world war in the age of mass extermination.",
-		"name": "John F. Kennedy"
-	},
-	{
-		"quote": "Exposure from a young age to the realities of the world is a super-big thing.",
-		"name": "Bill Gates"
-	},
-	{
-		"quote": "In every country and every age, the priest had been hostile to Liberty.",
-		"name": "Thomas Jefferson"
-	},
-	{
-		"quote": "At my advanced age - I'm now an octogenarian - I'm constantly amazed by the number of people who want to take my picture.",
-		"name": "Ruth Bader Ginsburg"
-	},
-	{
-		"quote": "In youth, the days are short and the years are long. In old age, the years are short and days long.",
-		"name": "Pope Paul VI"
-	},
-	{
-		"quote": "The spirit of an age may be best expressed in the abstract ideal arts, for the spirit itself is abstract and ideal.",
-		"name": "Oscar Wilde"
-	},
-	{
-		"quote": "No woman should ever be quite accurate about her age. It looks so calculating.",
-		"name": "Oscar Wilde"
-	},
-	{
-		"quote": "The older I grow the more I distrust the familiar doctrine that age brings wisdom.",
-		"name": "H. L. Mencken"
-	},
-	{
-		"quote": "Every man over forty is a scoundrel.",
-		"name": "George Bernard Shaw"
-	},
-	{
-		"quote": "If you get to my age in life and nobody thinks well of you, I don't care how big your bank account is, your life is a disaster.",
-		"name": "Warren Buffett"
-	},
-	{
-		"quote": "He who has not the spirit of this age, has all the misery of it.",
-		"name": "Voltaire"
-	},
-	{
-		"quote": "How incessant and great are the ills with which a prolonged old age is replete.",
-		"name": "C. S. Lewis"
-	},
-	{
-		"quote": "What most persons consider as virtue, after the age of 40 is simply a loss of energy.",
-		"name": "Voltaire"
-	},
-	{
-		"quote": "Information is the oxygen of the modern age. It seeps through the walls topped by barbed wire, it wafts across the electrified borders.",
-		"name": "Ronald Reagan"
-	},
-	{
-		"quote": "Looking back, I realise I had to grow up and be responsible at a very tender age.",
-		"name": "Andie MacDowell"
-	},
-	{
-		"quote": "But the age of chivalry is gone. That of sophisters, economists, and calculators has succeeded; and the glory of Europe is extinguished forever.",
-		"name": "Edmund Burke"
-	},
-	{
-		"quote": "Thomas Jefferson once said, 'We should never judge a president by his age, only by his works.' And ever since he told me that, I stopped worrying.",
-		"name": "Ronald Reagan"
-	},
-	{
-		"quote": "We live in an age when the traditional great subjects - the human form, the landscape, even newer traditions such as abstract expressionism - are daily devalued by commercial art.",
-		"name": "Andy Warhol"
-	},
-	{
-		"quote": "I am happy being able to play roles with people my age because once you do something really mature there is no turning back.",
-		"name": "Lindsay Lohan"
-	},
-	{
-		"quote": "Alas, after a certain age every man is responsible for his face.",
-		"name": "Albert Camus"
-	},
-	{
-		"quote": "I was born the same week NASA was founded, so we're the same age and feel some of the same pains, joys, and frustrations.",
-		"name": "Neil deGrasse Tyson"
-	},
-	{
-		"quote": "Old age is when the liver spots show through your gloves.",
-		"name": "Phyllis Diller"
-	},
-	{
-		"quote": "An archaeologist is the best husband a woman can have. The older she gets the more interested he is in her.",
-		"name": "Agatha Christie"
-	},
-	{
-		"quote": "Nature gives you the face you have at twenty; it is up to you to merit the face you have at fifty.",
-		"name": "Coco Chanel"
-	},
-	{
-		"quote": "For me at age 11, I had a pair of binoculars and looked up to the moon, and the moon wasn't just bigger, it was better. There were mountains and valleys and craters and shadows. And it came alive.",
-		"name": "Neil deGrasse Tyson"
-	},
-	{
-		"quote": "Every man desires to live long, but no man wishes to be old.",
-		"name": "Jonathan Swift"
-	},
-	{
-		"quote": "The divine right of husbands, like the divine right of kings, may, it is hoped, in this enlightened age, be contested without danger.",
-		"name": "Mary Wollstonecraft"
-	},
-	{
-		"quote": "Not to expose your true feelings to an adult seems to be instinctive from the age of seven or eight onwards.",
-		"name": "George Orwell"
-	},
-	{
-		"quote": "The way it works in our family is, it's the family business. Much like in the Mafia. Every child is given the opportunity to act at a young age and to learn what it's like to be in the business.",
-		"name": "Jordan Bridges"
-	},
-	{
-		"quote": "The love story for me was the nature of the love and not the age of the lovers.",
-		"name": "Kate Capshaw"
-	},
-	{
-		"quote": "Old age is not a matter for sorrow. It is matter for thanks if we have left our work done behind us.",
-		"name": "Thomas Carlyle"
-	},
-	{
-		"quote": "Old age comes on suddenly, and not gradually as is thought.",
-		"name": "Emily Dickinson"
-	},
-	{
-		"quote": "Irrespective of age, we mourn for those loved and lost. Mourning is one of the deepest expressions of pure love.",
-		"name": "Russell M. Nelson"
-	},
-	{
-		"quote": "Second to agriculture, humbug is the biggest industry of our age.",
-		"name": "Alfred Nobel"
-	},
-	{
-		"quote": "Those who love deeply never grow old; they may die of old age, but they die young.",
-		"name": "Dorothy Canfield Fisher"
-	},
-	{
-		"quote": "Anything you cannot relinquish when it has outlived its usefulness possesses you, and in this materialistic age a great many of us are possessed by our possessions.",
-		"name": "Peace Pilgrim"
-	},
-	{
-		"quote": "The kids are old enough now - I just want to let them be kids. I don't want to comment on them too much. They're at an age where I just want to let them be kids.",
-		"name": "Eminem"
-	},
-	{
-		"quote": "I'm much more open to being a supporting actor right now. At the age of 60, I'll be second fiddle. Fine. I'm happy to do it.",
-		"name": "Robin Williams"
-	},
-	{
-		"quote": "Believe me, that was a happy age, before the days of architects, before the days of builders.",
-		"name": "Lucius Annaeus Seneca"
-	},
-	{
-		"quote": "Age merely shows what children we remain.",
-		"name": "Johann Wolfgang von Goethe"
-	},
-	{
-		"quote": "The credit of advancing science has always been due to individuals and never to the age.",
-		"name": "Johann Wolfgang von Goethe"
-	},
-	{
-		"quote": "Error is acceptable as long as we are young; but one must not drag it along into old age.",
-		"name": "Johann Wolfgang von Goethe"
-	},
-	{
-		"quote": "The charm of history and its enigmatic lesson consist in the fact that, from age to age, nothing changes and yet everything is completely different.",
-		"name": "Aldous Huxley"
-	},
-	{
-		"quote": "In this knowledge-worker age, it's now increasingly tied to doing well in school so you can get into better grad schools so you can get better jobs - so the pressure to do well is really high.",
-		"name": "Stephen Covey"
-	},
-	{
-		"quote": "To teach how to live without certainty and yet without being paralysed by hesitation is perhaps the chief thing that philosophy, in our age, can do for those who study it.",
-		"name": "Bertrand Russell"
-	},
-	{
-		"quote": "Old age is a special problem for me because I've never been able to shed the mental image I have of myself - a lad of about 19.",
-		"name": "E. B. White"
-	},
-	{
-		"quote": "Advice in old age is foolish; for what can be more absurd than to increase our provisions for the road the nearer we approach to our journey's end.",
-		"name": "Marcus Tullius Cicero"
-	},
-	{
-		"quote": "Rashness belongs to youth; prudence to old age.",
-		"name": "Marcus Tullius Cicero"
-	},
-	{
-		"quote": "Invention is the talent of youth, as judgment is of age.",
-		"name": "Jonathan Swift"
-	},
-	{
-		"quote": "Few women, I fear, have had such reason as I have to think the long sad years of youth were worth living for the sake of middle age.",
-		"name": "Dwight D. Eisenhower"
-	},
-	{
-		"quote": "Men of age object too much, consult too long, adventure too little, repent too soon, and seldom drive business home to the full period, but content themselves with a mediocrity of success.",
-		"name": "Dale Carnegie"
-	},
-	{
-		"quote": "At the age of six I wanted to be a cook. At seven I wanted to be Napoleon. And my ambition has been growing steadily ever since.",
-		"name": "Salvador Dali"
-	},
-	{
-		"quote": "It is possible that mankind is on the threshold of a golden age; but, if so, it will be necessary first to slay the dragon that guards the door, and this dragon is religion.",
-		"name": "Bertrand Russell"
-	},
-	{
-		"quote": "Being seventy is not a sin.",
-		"name": "Golda Meir"
-	},
-	{
-		"quote": "Mindfulness can help people of any age. That's because we become what we think.",
-		"name": "Goldie Hawn"
-	},
-	{
-		"quote": "No economy can succeed without a high-quality workforce, particularly in an age of globalization and technical change.",
-		"name": "Ben Bernanke"
-	},
-	{
-		"quote": "I am, as I've said, merely competent. But in an age of incompetence, that makes me extraordinary.",
-		"name": "Billy Joel"
-	},
-	{
-		"quote": "In the Age of the Almighty Computer, drones are the perfect warriors. They kill without remorse, obey without kidding around, and they never reveal the names of their masters.",
-		"name": "Eduardo Galeano"
-	},
-	{
-		"quote": "I went to high school, which was a good thing because I hadn't interacted with many people my age, and I didn't really have friends. I had a million acquaintances and no friends.",
-		"name": "Macaulay Culkin"
-	},
-	{
-		"quote": "Lack of education, old age, bad health or discrimination - these are causes of poverty, and the way to attack it is to go to the root.",
-		"name": "Robert Kennedy"
-	},
-	{
-		"quote": "Whether you are just entering the workforce or nearing retirement age, planning for the future is critical.",
-		"name": "Ron Lewis"
-	},
-	{
-		"quote": "If you look at the average age of a company on the Dow Jones index, it's something like 35 years or younger. In other words... success is no indication of longevity.",
-		"name": "Simon Sinek"
-	},
-	{
-		"quote": "Childhood: the period of human life intermediate between the idiocy of infancy and the folly of youth - two removes from the sin of manhood and three from the remorse of age.",
-		"name": "Ambrose Bierce"
-	},
-	{
-		"quote": "Old age realizes the dreams of youth: look at Dean Swift; in his youth he built an asylum for the insane, in his old age he was himself an inmate.",
-		"name": "Soren Kierkegaard"
-	},
-	{
-		"quote": "Age is not important unless you're a cheese.",
-		"name": "Helen Hayes"
-	},
-	{
-		"quote": "You know, from age 17 on, my paycheck was coming from cooking and working in kitchens.",
-		"name": "Anthony Bourdain"
-	},
-	{
-		"quote": "It seems as if an age of genius must be succeeded by an age of endeavour; riot and extravagance by cleanliness and hard work.",
-		"name": "Virginia Woolf"
-	},
-	{
-		"quote": "What is an adult? A child blown up by age.",
-		"name": "Simone de Beauvoir"
-	},
-	{
-		"quote": "As long as any adult thinks that he, like the parents and teachers of old, can become introspective, invoking his own youth to understand the youth before him, he is lost.",
-		"name": "Margaret Mead"
-	},
-	{
-		"quote": "In this digital age, it doesn't really matter if you are in Canary Wharf or the Caribbean; there are opportunities waiting to be grasped by entrepreneurs.",
-		"name": "Richard Branson"
-	},
-	{
-		"quote": "Old age is a shipwreck.",
-		"name": "Charles de Gaulle"
-	},
-	{
-		"quote": "Nobody expects to trust his body overmuch after the age of fifty.",
-		"name": "Alexander Hamilton"
-	},
-	{
-		"quote": "Admiration of the proletariat, like that of dams, power stations, and aeroplanes, is part of the ideology of the machine age.",
-		"name": "Bertrand Russell"
-	},
-	{
-		"quote": "We've put more effort into helping folks reach old age than into helping them enjoy it.",
-		"name": "Frank A. Clark"
-	},
-	{
-		"quote": "We live in an age where people will watch epic entertainment on their phones.",
-		"name": "Will Arnett"
-	},
-	{
-		"quote": "One of the great creative statesmen of our age was Franklin Roosevelt. He was creative precisely because he preferred experiment to ideology.",
-		"name": "Robert Kennedy"
-	},
-	{
-		"quote": "O love, if I regret the age when one savors you, it is not for the hour of pleasure, but for the one that follows it.",
-		"name": "Jean-Jacques Rousseau"
-	},
-	{
-		"quote": "The rewards for biotechnology are tremendous - to solve disease, eliminate poverty, age gracefully. It sounds so much cooler than Facebook.",
-		"name": "George M. Church"
-	},
-	{
-		"quote": "Laughter crosses boundaries of class and age... Humour is universal.",
-		"name": "Jeremy Lloyd"
-	},
-	{
-		"quote": "Retirement at sixty-five is ridiculous. When I was sixty-five I still had pimples.",
-		"name": "George Burns"
-	},
-	{
-		"quote": "If you live to be one hundred, you've got it made. Very few people die past that age.",
-		"name": "George Burns"
-	},
-	{
-		"quote": "There is nothing in socialism that a little age or a little money will not cure.",
-		"name": "Will Durant"
-	},
-	{
-		"quote": "Old age has its pleasures, which, though different, are not less than the pleasures of youth.",
-		"name": "W. Somerset Maugham"
-	},
-	{
-		"quote": "Now I am in my eighties, and I have known the joys and sorrows of a full life. Age, however, has its privileges. One is to reminisce, and another is to reminisce selectively.",
-		"name": "Rose Kennedy"
-	},
-	{
-		"quote": "Positive emotion alienated from the exercise of character leads to emptiness, to inauthenticity, to depression, and, as we age, to the gnawing realization that we are fidgeting until we die.",
-		"name": "Martin Seligman"
-	},
-	{
-		"quote": "There's no such thing as old age. I'm no different now than I was 50 years ago. I'm just having more fun.",
-		"name": "Philip Johnson"
-	},
-	{
-		"quote": "Youngsters of the age of two and three are endowed with extraordinary strength. They can lift a dog twice their own weight and dump him into the bathtub.",
-		"name": "Erma Bombeck"
-	},
-	{
-		"quote": "In a digital age, I still love sending and receiving cards, hand-writing notes, and wrapping gifts.",
-		"name": "Matthew Williamson"
-	},
-	{
-		"quote": "Wives are young men's mistresses, companions for middle age, and old men's nurses.",
-		"name": "Francis Bacon"
-	},
-	{
-		"quote": "Like I said on my bio on my webpage, I was born at an early age, I was close to my mother.",
-		"name": "Peter Jurasik"
-	},
-	{
-		"quote": "Age is of no importance unless you are a cheese.",
-		"name": "Billie Burke"
-	},
-	{
-		"quote": "What though youth gave love and roses, Age still leaves us friends and wine.",
-		"name": "Thomas Moore"
-	},
-	{
-		"quote": "The passions grafted on wounded pride are the most inveterate; they are green and vigorous in old age.",
-		"name": "George Santayana"
-	},
-	{
-		"quote": "As the age of television progresses the Reagans will be the rule, not the exception. To be perfect for television is all a President has to be these days.",
-		"name": "Gore Vidal"
-	},
-	{
-		"quote": "A man knows when he is growing old because he begins to look like his father.",
-		"name": "Gabriel Garcia Marquez"
-	},
-	{
-		"quote": "I don't believe in happy endings, but I do believe in happy travels, because ultimately, you die at a very young age, or you live long enough to watch your friends die. It's a mean thing, life.",
-		"name": "George Clooney"
-	},
-	{
-		"quote": "Our age knows nothing but reaction, and leaps from one extreme to another.",
-		"name": "Reinhold Niebuhr"
-	},
-	{
-		"quote": "When I turned 60, it didn't bother me at all.",
-		"name": "Yoko Ono"
-	},
-	{
-		"quote": "I have discovered that just because we grow weaker physically as we age, it doesn't mean that we must grow weaker spiritually.",
-		"name": "Billy Graham"
-	},
-	{
-		"quote": "For the moment I prefer to be a beautiful woman of my age than try desperately to look 30.",
-		"name": "Demi Moore"
-	},
-	{
-		"quote": "My husband gave me a necklace. It's fake. I requested fake. Maybe I'm paranoid, but in this day and age, I don't want something around my neck that's worth more than my head.",
-		"name": "Rita Rudner"
-	},
-	{
-		"quote": "In fact, my courage and my bravery at a young age was the thing I was bullied for, a kind of 'Who do you think you are?'",
-		"name": "Lady Gaga"
-	},
-	{
-		"quote": "Man has no Body distinct from his Soul; for that called Body is a portion of Soul discerned by the five Senses, the chief inlets of Soul in this age.",
-		"name": "William Blake"
-	},
-	{
-		"quote": "Girls' inner critics are starting to reveal themselves at a younger and younger age. And body image issues are an aspect of their lives which is causing them low self esteem and day-to-day suffering.",
-		"name": "Elizabeth Berkley"
-	},
-	{
-		"quote": "We live in the age of the refugee, the age of the exile.",
-		"name": "Ariel Dorfman"
-	},
-	{
-		"quote": "I should have been out there having a wild time like all the other girls my age, but I wasn't. I was going home every night to what was, initially, a very happy marriage.",
-		"name": "Amanda Holden"
-	},
-	{
-		"quote": "A man growing old becomes a child again.",
-		"name": "Sophocles"
-	},
-	{
-		"quote": "Love makes those young whom age doth chill, and whom he finds young keeps young still.",
-		"name": "William Cartwright"
-	},
-	{
-		"quote": "In the media age, everybody was famous for 15 minutes. In the Wikipedia age, everybody can be an expert in five minutes. Special bonus: You can edit your own entry to make yourself seem even smarter.",
-		"name": "Stephen Colbert"
-	},
-	{
-		"quote": "I think being able to age gracefully is a very important talent. It is too late for me.",
-		"name": "Clint Eastwood"
-	},
-	{
-		"quote": "There are certain age limits on police officers. They'd have retired me out at 65.",
-		"name": "Clint Eastwood"
-	},
-	{
-		"quote": "I think there is a lot made out of age, and what age you feel.",
-		"name": "Clint Eastwood"
-	},
-	{
-		"quote": "I often joke that 100 years from now I hope people are saying, 'Dang, she looks good for her age!'",
-		"name": "Dolly Parton"
-	},
-	{
-		"quote": "A woman telling her true age is like a buyer confiding his final price to an Armenian rug dealer.",
-		"name": "Mignon McLaughlin"
-	},
-	{
-		"quote": "At its best our age is an age of searchers and discoverers, and at its worst, an age that has domesticated despair and learned to live with it happily.",
-		"name": "Flannery O'Connor"
-	},
-	{
-		"quote": "I figured out it was a social thing, what women were allowed to do. At a very young age, I decided I was not going to follow women's rules.",
-		"name": "Joan Jett"
-	},
-	{
-		"quote": "Old age, calm, expanded, broad with the haughty breadth of the universe, old age flowing free with the delicious near-by freedom of death.",
-		"name": "Edith Wharton"
-	},
-	{
-		"quote": "Age is the first limitation on roles that I've ever had to encounter, and I hit that awhile ago.",
-		"name": "Jack Nicholson"
-	},
-	{
-		"quote": "I have the problems of, I must confess, old age.",
-		"name": "Billy Graham"
-	},
-	{
-		"quote": "There's a great deal to say in the Bible about the signs we're to watch for, and when these signs all converge at one place we can be sure that we're close to the end of the age.",
-		"name": "Billy Graham"
-	},
-	{
-		"quote": "Morality comes with the sad wisdom of age, when the sense of curiosity has withered.",
-		"name": "Graham Greene"
-	},
-	{
-		"quote": "When at a young age you learn to face your fears, that makes the difference between people being champions and people not being champions.",
-		"name": "Evander Holyfield"
-	},
-	{
-		"quote": "It is well for the world that in most of us, by the age of thirty, the character has set like plaster, and will never soften again.",
-		"name": "William James"
-	},
-	{
-		"quote": "It is not well to make great changes in old age.",
-		"name": "Charles Spurgeon"
-	},
-	{
-		"quote": "I was preppy, then suddenly switched around age 14. I asked my mother to go to this vintage store, and she let me buy a leopard swing coat, pink cigarette pants, and lime-green gloves.",
-		"name": "Kate Spade"
-	},
-	{
-		"quote": "Each age has deemed the new-born year the fittest time for festal cheer.",
-		"name": "Walter Scott"
-	},
-	{
-		"quote": "Middle age is when your old classmates are so grey and wrinkled and bald they don't recognize you.",
-		"name": "Bennett Cerf"
-	},
-	{
-		"quote": "The mind that is wise mourns less for what age takes away; than what it leaves behind.",
-		"name": "William Wordsworth"
-	},
-	{
-		"quote": "We're in an age of enlightenment, and we have a choice as a society which path to take.",
-		"name": "Rhys Ifans"
-	},
-	{
-		"quote": "Why should society feel responsible only for the education of children, and not for the education of all adults of every age?",
-		"name": "Erich Fromm"
-	},
-	{
-		"quote": "With age comes a greater understanding and a greater worldview.",
-		"name": "Michael Connelly"
-	},
-	{
-		"quote": "Twenty-two is just such a random age. It's a little blah.",
-		"name": "Jennifer Damiano"
-	},
-	{
-		"quote": "Life, an age to the miserable, and a moment to the happy.",
-		"name": "Francis Bacon"
-	},
-	{
-		"quote": "The Republicans are, 'the party of the rich,' my mom said, 'We're poor, so we're Democrats.' That convinced me. I had no wish to remain poor, so I became a Republican at the age of 12.",
-		"name": "Lionel Sosa"
-	},
-	{
-		"quote": "Age does not bring you wisdom, age brings you wrinkles.",
-		"name": "Estelle Getty"
-	},
-	{
-		"quote": "The shades of respectability begin to close about the greying head.",
-		"name": "Mason Cooley"
-	},
-	{
-		"quote": "With age, life becomes complex and difficult, often fraught with risk on several levels, from the practical to the fiscal.",
-		"name": "Henry Rollins"
-	},
-	{
-		"quote": "By Time and Age full many things are taught.",
-		"name": "Aeschylus"
-	},
-	{
-		"quote": "In every age there has been a stream of popular opinion that has carried all before it, and given a family character, as it were, to the century.",
-		"name": "Mary Wollstonecraft"
-	},
-	{
-		"quote": "With increasing age, dullness of mind and heart sets in.",
-		"name": "Jiddu Krishnamurti"
-	},
-	{
-		"quote": "We live in an age that stresses personal goals, careers, happiness, work and religion. The emphasis is on the individual and how best that individual can satisfy himself.",
-		"name": "Mother Angelica"
-	},
-	{
-		"quote": "We are all geniuses up to the age of ten.",
-		"name": "Aldous Huxley"
-	},
-	{
-		"quote": "If the nineteenth century was the age of the editorial chair, ours is the century of the psychiatrist's couch.",
-		"name": "Marshall McLuhan"
-	},
-	{
-		"quote": "I'm inspired by people who keep on rolling, no matter their age.",
-		"name": "Jimmy Buffett"
-	},
-	{
-		"quote": "This is the first age that's ever paid much attention to the future, which is a little ironic since we may not have one.",
-		"name": "Arthur C. Clarke"
-	},
-	{
-		"quote": "The terror of the atom age is not the violence of the new power but the speed of man's adjustment to it, the speed of his acceptance.",
-		"name": "E. B. White"
-	},
-	{
-		"quote": "When superstition is allowed to perform the task of old age in dulling the human temperament, we can say goodbye to all excellence in poetry, in painting, and in music.",
-		"name": "Denis Diderot"
-	},
-	{
-		"quote": "Even one voice can be heard loudly all over the world in this day and age.",
-		"name": "Aung San Suu Kyi"
-	},
-	{
-		"quote": "Filth and old age, I'm sure you will agree, are powerful wardens upon chastity.",
-		"name": "Geoffrey Chaucer"
-	},
-	{
-		"quote": "Middle age is when your age starts to show around your middle.",
-		"name": "Bob Hope"
-	},
-	{
-		"quote": "I don't feel old. I don't feel anything till noon. That's when it's time for my nap.",
-		"name": "Bob Hope"
-	},
-	{
-		"quote": "People who refuse to rest honorably on their laurels when they reach retirement age seem very admirable to me.",
-		"name": "Helen Hayes"
-	},
-	{
-		"quote": "I'm often in the company of adults, so it's nice to meet girls my age or younger.",
-		"name": "Malala Yousafzai"
-	},
-	{
-		"quote": "Ours is an excessively conscious age. We know so much, we feel so little.",
-		"name": "D. H. Lawrence"
-	},
-	{
-		"quote": "You know you're getting old when all the names in your black book have M. D. after them.",
-		"name": "Harrison Ford"
-	},
-	{
-		"quote": "Revenge is the naked idol of the worship of a semi-barbarous age.",
-		"name": "Percy Bysshe Shelley"
-	},
-	{
-		"quote": "I was made fun of at a young age. I would fight a lot in the streets, and it has a lot to do with the way I am today. It helped my development as a fighter, but what can I say?",
-		"name": "Canelo Alvarez"
-	},
-	{
-		"quote": "My mother encouraged me to be artistic. It was written in a contract at an early age that I would be an artist.",
-		"name": "Kurt Cobain"
-	},
-	{
-		"quote": "I will never give in to old age until I become old. And I'm not old yet!",
-		"name": "Tina Turner"
-	},
-	{
-		"quote": "That's the privilege of old age: You don't have to remember.",
-		"name": "Alan Arkin"
-	},
-	{
-		"quote": "A graceful and honorable old age is the childhood of immortality.",
-		"name": "Pindar"
-	},
-	{
-		"quote": "There is no age limit on the enjoyment of sex. It keeps getting better.",
-		"name": "Florence Henderson"
-	},
-	{
-		"quote": "When I was four, my mother insisted I get out of the car and find my own way home. Although I got lost, I did find my way home. It taught me the value of independence at an early age.",
-		"name": "Richard Branson"
-	},
-	{
-		"quote": "And I'm afraid, in this day and age, trust, which I count so, you know, I love loyalty. I love trust.",
-		"name": "Elton John"
-	},
-	{
-		"quote": "Dressing up is a bore. At a certain age, you decorate yourself to attract the opposite sex, and at a certain age, I did that. But I'm past that age.",
-		"name": "Katharine Hepburn"
-	},
-	{
-		"quote": "To my mind, there is no doubt that this Gandhi age is the dark age of India. It is an age in which people, instead of looking for their ideals in the future, are returning to antiquity.",
-		"name": "B. R. Ambedkar"
-	},
-	{
-		"quote": "Age doesn't bother me. So many of my heroes were older guys. It's the lack of years left that weighs far heavier on me than the age that I am.",
-		"name": "David Bowie"
-	},
-	{
-		"quote": "Litigation takes the place of sex at middle age.",
-		"name": "Gore Vidal"
-	},
-	{
-		"quote": "I had become obsessed with the control-freak aspect of photography and with the rising importance of the image in our social media age it ended up working.",
-		"name": "Cole Sprouse"
-	},
-	{
-		"quote": "Chinese people age overnight.",
-		"name": "Karl Pilkington"
-	},
-	{
-		"quote": "I've been screaming at the top of my lungs at my family, 'Work out! Work out! Old age is coming!'",
-		"name": "Cher"
-	},
-	{
-		"quote": "The words 'Space Age' have a quaint, nostalgic tone - sitting on midcentury modern furniture watching 'The Jetsons.'",
-		"name": "P. J. O'Rourke"
-	},
-	{
-		"quote": "I created Punk for this day and age. Do you see Britney walking around wearing ties and singing punk? Hell no. That's what I do. I'm like a Sid Vicious for a new generation.",
-		"name": "Avril Lavigne"
-	},
-	{
-		"quote": "This is the strange thing: Dancers don't age.",
-		"name": "Twyla Tharp"
-	},
-	{
-		"quote": "Whoever, fleeing marriage and the sorrows that women cause, does not wish to wed comes to a deadly old age.",
-		"name": "Hesiod"
-	},
-	{
-		"quote": "Live your life and forget your age.",
-		"name": "Jean Paul"
-	},
-	{
-		"quote": "Women lie about their age; men lie about their income.",
-		"name": "William Feather"
-	},
-	{
-		"quote": "The secret of long life is double careers. One to about age sixty, then another for the next thirty years.",
-		"name": "David Ogilvy"
-	},
-	{
-		"quote": "I lived the true American dream, because I was able to pursue what I set as my goals at a very young age.",
-		"name": "Mario Andretti"
-	},
-	{
-		"quote": "As far as my mindset changing, I see myself having more empathy in my older age.",
-		"name": "Bill Burr"
-	},
-	{
-		"quote": "No, no, I was only funny on stage, really. I, I, think I was funny as a person toward my classmates when I was very young. You know, when I was a child, up to about the age of 12.",
-		"name": "Rowan Atkinson"
-	},
-	{
-		"quote": "Every age needs men who will redeem the time by living with a vision of the things that are to be.",
-		"name": "Adlai E. Stevenson"
-	},
-	{
-		"quote": "This idea that being youthful is the only thing that's beautiful or attractive simply isn't true. I don't want to be an 'ageless beauty.' I want to be a woman who is the best I can be at my age.",
-		"name": "Sharon Stone"
-	},
-	{
-		"quote": "Nobody gets irony anymore, as we are now living in the post-ironic age. Once George Bush gets a library, our irony is dead.",
-		"name": "Eric Idle"
-	},
-	{
-		"quote": "Italians know that what matters is style, not fashion. Italian style does not have social or age boundaries.",
-		"name": "Stefano Gabbana"
-	},
-	{
-		"quote": "As we grow older, our bodies get shorter and our anecdotes longer.",
-		"name": "Robert Quillen"
-	},
-	{
-		"quote": "Middle age is when you've met so many people that every new person you meet reminds you of someone else.",
-		"name": "Ogden Nash"
-	},
-	{
-		"quote": "Wisdom doesn't necessarily come with age. Sometimes age just shows up all by itself.",
-		"name": "Tom Wilson"
-	},
-	{
-		"quote": "Our working hypothesis is that the status of knowledge is altered as societies enter what is known as the postindustrial age and cultures enter what is known as the postmodern age.",
-		"name": "Jean-Francois Lyotard"
-	},
-	{
-		"quote": "The tendency of old age to the body, say the physiologists, is to form bone. It is as rare as it is pleasant to meet with an old man whose opinions are not ossified.",
-		"name": "Bob Wells"
-	},
-	{
-		"quote": "I was already, I think, at the age of 18, showing signs of being incompetent in the lab.",
-		"name": "Peter Higgs"
-	},
-	{
-		"quote": "If you're 90 and look good in a mini-skirt, go for it. What is 'age appropriate'? Such nonsense. My mother lived to 106, so what's middle-age? Seventy is the new 50.",
-		"name": "Loretta Swit"
-	},
-	{
-		"quote": "After 12 years, the old butterflies came back. Well, I guess at my age you call them moths.",
-		"name": "Franco Harris"
-	},
-	{
-		"quote": "The exhaustion of old age is something people who are younger don't fully appreciate.",
-		"name": "Tony Benn"
-	},
-	{
-		"quote": "The fondest dream of the information age is to create an archive of all knowledge. You might call it the Alexandrian fantasy, after the great library founded by Ptolemy I in 286 BC.",
-		"name": "Gary Wolf"
-	},
-	{
-		"quote": "In this new age of GPS, Google Earth and multidimensional digital maps, mapping is suddenly hugely relevant again.",
-		"name": "Hans-Ulrich Obrist"
-	},
-	{
-		"quote": "You can wear black at any time. You can wear it at any age. You may wear it for almost any occasion; a 'little black frock' is essential to a woman's wardrobe.",
-		"name": "Christian Dior"
-	},
-	{
-		"quote": "Nice to be here? At my age it's nice to be anywhere.",
-		"name": "George Burns"
-	},
-	{
-		"quote": "I'm at the age now where just putting my cigar in its holder is a thrill.",
-		"name": "George Burns"
-	},
-	{
-		"quote": "I was very successful from a very early age, and I want to keep it.",
-		"name": "John Mayer"
-	},
-	{
-		"quote": "A moment comes, which comes but rarely in history, when we step out from the old to the new; when an age ends; and when the soul of a nation long suppressed finds utterance.",
-		"name": "Jawaharlal Nehru"
-	},
-	{
-		"quote": "Age is a matter of feeling, not of years.",
-		"name": "Washington Irving"
-	},
-	{
-		"quote": "At the age of eight I started getting into fashion, brands such as Tommy Hilfiger, Nautica and Ralph Lauren. But in 2005 I started wearing John Richmond jeans.",
-		"name": "ASAP Rocky"
-	},
-	{
-		"quote": "The closing years of life are like the end of a masquerade party, when the masks are dropped.",
-		"name": "Cesare Pavese"
-	},
-	{
-		"quote": "Children under five are the poorest age group in America, and one in four infants, toddlers and preschoolers are poor during the years of greatest brain development.",
-		"name": "Marian Wright Edelman"
-	},
-	{
-		"quote": "We are always the same age inside.",
-		"name": "Gertrude Stein"
-	},
-	{
-		"quote": "Love, with very young people, is a heartless business. We drink at that age from thirst, or to get drunk; it is only later in life that we occupy ourselves with the individuality of our wine.",
-		"name": "Isak Dinesen"
-	},
-	{
-		"quote": "Our Age of Anxiety is, in great part, the result of trying to do today's job with yesterday's tools and yesterday's concepts.",
-		"name": "Marshall McLuhan"
-	},
-	{
-		"quote": "Old age is ready to undertake tasks that youth shirked because they would take too long.",
-		"name": "W. Somerset Maugham"
-	},
-	{
-		"quote": "We live in an age of mediocrity.",
-		"name": "Lauren Bacall"
-	},
-	{
-		"quote": "The most important function of the university in an age of reason is to protect reason from itself.",
-		"name": "Allan Bloom"
-	},
-	{
-		"quote": "At a young age, I was interested in comic books, which was really how I learnt to read. The name Cage came from a comic book character called Power Man.",
-		"name": "Nicolas Cage"
-	},
-	{
-		"quote": "Even truth needs to be clad in new garments if it is to appeal to a new age.",
-		"name": "Georg C. Lichtenberg"
-	},
-	{
-		"quote": "I shall not grow conservative with age.",
-		"name": "Elizabeth Cady Stanton"
-	},
-	{
-		"quote": "At the age of 21, I had never even stepped on a treadmill.",
-		"name": "Nikki Reed"
-	},
-	{
-		"quote": "Learning to dislike children at an early age saves a lot of expense and aggravation later in life.",
-		"name": "Robert Byrne"
-	},
-	{
-		"quote": "I've never wanted to use my age as a gimmick, as something that would get me ahead of other people. I've wanted the music to do that.",
-		"name": "Taylor Swift"
-	},
-	{
-		"quote": "You are the age of your spine. You are as flexible as your spine. That transfers to other areas of your life.",
-		"name": "Diane Lane"
-	},
-	{
-		"quote": "There are things that tend to moderate with age. Schizophrenia is somewhat like that.",
-		"name": "John Forbes Nash, Jr."
-	},
-	{
-		"quote": "My mother sent me to psychiatrists since the age of four because she didn't think little boys should be sad. When my brother was born, I stared out the window for days. Can you imagine that?",
-		"name": "Andy Kaufman"
-	},
-	{
-		"quote": "As you age, your blood pressure tends to get higher.",
-		"name": "Michael Greger"
-	},
-	{
-		"quote": "Middle Age - later than you think and sooner than you expect.",
-		"name": "Earl Wilson"
-	},
-	{
-		"quote": "I want to get old gracefully. I want to have good posture, I want to be healthy and be an example to my children.",
-		"name": "Sting"
-	},
-	{
-		"quote": "Oh rage! Oh despair! Oh age, my enemy!",
-		"name": "Pierre Corneille"
-	},
-	{
-		"quote": "No matter what age you are, there's a lot of room for learning.",
-		"name": "Tony Bennett"
-	},
-	{
-		"quote": "For me, it's always been draining to be around people for too long because I'm naturally a pretty expressionless person. From an early age, I found being alone incredibly liberating.",
-		"name": "Kevin Parker"
-	},
-	{
-		"quote": "To me, old age is always fifteen years older than I am.",
-		"name": "Bernard Baruch"
-	},
-	{
-		"quote": "I think that a man should not live beyond the age when he begins to deteriorate, when the flame that lighted the brightest moment of his life has weakened.",
-		"name": "Fidel Castro"
-	},
-	{
-		"quote": "The Arab Spring is a powerful and compelling response not only to an age of tyranny but also to the remnant chains of imperial influence.",
-		"name": "Hisham Matar"
-	},
-	{
-		"quote": "All we can do when we think of kids today is think of more hours of school, earlier age at the computer, and curfews. Who would want to grow up in that world?",
-		"name": "James Hillman"
-	},
-	{
-		"quote": "The sanitary and mechanical age we are now entering makes up for the mercy it grants to our sense of smell by the ferocity with which it assails our sense of hearing.",
-		"name": "Havelock Ellis"
-	},
-	{
-		"quote": "I'm not interested in age. People who tell me their age are silly. You're as old as you feel.",
-		"name": "Henri Frederic Amiel"
-	},
-	{
-		"quote": "People say women shouldn't have long hair over a certain age, but I've never done what everyone says.",
-		"name": "Jane Seymour"
-	},
-	{
-		"quote": "You don't stop laughing because you grow older. You grow older because you stop laughing.",
-		"name": "Maurice Chevalier"
-	},
-	{
-		"quote": "Knowing how to age and not being afraid of aging is very healthy.",
-		"name": "Evelyn Lauder"
-	},
-	{
-		"quote": "I've found a formula for avoiding these exaggerated fears of age; you take care of every day - let the calendar take care of the years.",
-		"name": "Ed Wynn"
-	},
-	{
-		"quote": "In old age we are like a batch of letters that someone has sent. We are no longer in the past, we have arrived.",
-		"name": "Knut Hamsun"
-	},
-	{
-		"quote": "I am enormously honored to be one of the spokesmen of the New Age Womens Health Campaign, so you'll be seeing me in public service announcements and public appearances supporting the campaign.",
-		"name": "Karen Duffy"
-	},
-	{
-		"quote": "People think children's books are about teddy bears and little flowers. I realize people sometimes don't know what to do with my books because they say, 'Is it a children's book, and what age group?'",
-		"name": "Peter Sis"
-	},
-	{
-		"quote": "Old age treats freelance writers pretty gently.",
-		"name": "John Updike"
-	},
-	{
-		"quote": "From my perspective, there's no reason to be afraid of aging, because if you age, you're lucky! The alternative is death.",
-		"name": "Drew Barrymore"
-	},
-	{
-		"quote": "I think when the full horror of being fifty hits you, you should stay home and have a good cry.",
-		"name": "Josh Billings"
-	},
-	{
-		"quote": "Age carries all things away, even the mind.",
-		"name": "Virgil"
-	},
-	{
-		"quote": "In this age, which believes that there is a short cut to everything, the greatest lesson to be learned is that the most difficult way is, in the long run, the easiest.",
-		"name": "Henry Miller"
-	},
-	{
-		"quote": "I've been very competitive by nature from a young age, whether it was eating a bowl of pasta faster than somebody else, or always wanting to be the first one in line.",
-		"name": "Maria Sharapova"
-	},
-	{
-		"quote": "I really love cursing a lot. But as I get older, I realize it's a little unseemly for women of a certain age.",
-		"name": "Tina Fey"
-	},
-	{
-		"quote": "I think your whole life shows in your face and you should be proud of that.",
-		"name": "Lauren Bacall"
-	},
-	{
-		"quote": "There is always some specific moment when we become aware that our youth is gone; but, years after, we know it was much later.",
-		"name": "Mignon McLaughlin"
-	},
-	{
-		"quote": "The value of old age depends upon the person who reaches it. To some men of early performance it is useless. To others, who are late to develop, it just enables them to finish the job.",
-		"name": "Thomas Hardy"
-	},
-	{
-		"quote": "I think that other girls and boys my age will maybe see that I'm so accepting and be accepting of other people, too.",
-		"name": "Kylie Jenner"
-	},
-	{
-		"quote": "The information encoded in your DNA determines your unique biological characteristics, such as sex, eye color, age and Social Security number.",
-		"name": "Dave Barry"
-	},
-	{
-		"quote": "It is a sobering thought that when Mozart was my age, he had been dead for two years.",
-		"name": "Tom Lehrer"
-	},
-	{
-		"quote": "Age is like love, it cannot be hid.",
-		"name": "Thomas Dekker"
-	},
-	{
-		"quote": "The surest sign of age is loneliness.",
-		"name": "Annie Dillard"
-	},
-	{
-		"quote": "Age is a very high price to pay for maturity.",
-		"name": "Tom Stoppard"
-	},
-	{
-		"quote": "The aging process has you firmly in its grasp if you never get the urge to throw a snowball.",
-		"name": "Doug Larson"
-	},
-	{
-		"quote": "We tried not to age, but time had its rage.",
-		"name": "Pete Townshend"
-	},
-	{
-		"quote": "Art in the age of the digital image is completely different from experiencing art in physical form.",
-		"name": "Kehinde Wiley"
-	},
-	{
-		"quote": "If you've got to my age, you've probably had your heart broken many times. So it's not that difficult to unpack a bit of grief from some little corner of your heart and cry over it.",
-		"name": "Emma Thompson"
-	},
-	{
-		"quote": "The information age has ushered in a networked and interdependent world, one in which challenges and opportunities appear and disappear faster than traditional organizational models can manage.",
-		"name": "Chris Fussell"
-	},
-	{
-		"quote": "I'm in the process of convincing my parents to sell me their house so I can just live in my childhood bedroom forever. I figure it might make me age slower.",
-		"name": "Pete Wentz"
-	},
-	{
-		"quote": "Every age develops its own peculiar forms of pathology, which express in exaggerated form its underlying character structure.",
-		"name": "Christopher Lasch"
-	},
-	{
-		"quote": "Whatever poet, orator or sage may say of it, old age is still old age.",
-		"name": "Sinclair Lewis"
-	},
-	{
-		"quote": "Voters should be assured that I absolutely do not support raising the retirement age for Social Security.",
-		"name": "Bill Flores"
-	},
-	{
-		"quote": "It has been claimed at times that our modern age of technology facilitates dictatorship.",
-		"name": "Henry A. Wallace"
-	},
-	{
-		"quote": "Age is just a number, and your talent will never fail you. It has no expiry date.",
-		"name": "Madhuri Dixit"
-	},
-	{
-		"quote": "When I was born, my mother was very disappointed. She wanted a son. I knew that from a very early age. So I was a tomboy.",
-		"name": "Winnie Madikizela-Mandela"
-	},
-	{
-		"quote": "I was depressed at a very young age - mental illness runs in my family, especially on the female side.",
-		"name": "Petra Collins"
-	},
-	{
-		"quote": "According to the National Institute on Drug Abuse, the first use of alcohol typically begins at age 12.",
-		"name": "Xavier Becerra"
-	},
-	{
-		"quote": "If we are strong, and have faith in life and its richness of surprises, and hold the rudder steadily in our hands. I am sure we will sail into quiet and pleasent waters for our old age.",
-		"name": "Freya Stark"
-	},
-	{
-		"quote": "You're supposed to be using your gifts and fulfilling your dreams, at every age.",
-		"name": "Victoria Moran"
-	},
-	{
-		"quote": "It's tough to be a mother. At any age. It's tough. It's a lot of work.",
-		"name": "Chirlane McCray"
-	},
-	{
-		"quote": "As Indians, we must of course learn from the past; but we must remain focused on the future. In my view, education is the true alchemy that can bring India its next golden age.",
-		"name": "Pranab Mukherjee"
-	},
-	{
-		"quote": "If I could have gone on describing to you the beauties of this region, who knows but I might have made a fine addition to the literature of our age?",
-		"name": "Robert Gould Shaw"
-	},
-	{
-		"quote": "Nearly one in four women will experience domestic violence during her lifetime. And slightly more than half of female victims of domestic violence live in households with children under age 12.",
-		"name": "Lucille Roybal-Allard"
-	},
-	{
-		"quote": "I think computer science, by and large, is still stuck in the Modern age.",
-		"name": "Larry Wall"
-	},
-	{
-		"quote": "Growing up in the digital age of filmmaking, I'm as guilty as anyone of overshooting.",
-		"name": "Matthew Heineman"
-	},
-	{
-		"quote": "For directors and producers, you're not going to get competent performers on your set if they didn't start at a young age and understand professionalism.",
-		"name": "Jaleel White"
-	},
-	{
-		"quote": "We've always lived in dark times. There has always been a range of human experience from the sublime to the brutal, and stories reflect it. It's no less brutal now; each age has its horrors.",
-		"name": "Terri Windling"
-	},
-	{
-		"quote": "My life, I realize suddenly, is July. Childhood is June, and old age is August, but here it is, July, and my life, this year, is July inside of July.",
-		"name": "Rick Bass"
-	},
-	{
-		"quote": "There is one thing on which most athletes and experts seem to agree. If you want to be an elite athlete, good nutrition at a young age is an important place to start.",
-		"name": "Chuck Norris"
-	},
-	{
-		"quote": "The burden for achieving disarmament cannot be borne by peace groups alone. Everybody, regardless of age, income, profession, gender or nationality, has a stake in this quest.",
-		"name": "Ban Ki-moon"
-	},
-	{
-		"quote": "I think of dying every day... At a certain age, you should be prepared to go at any time.",
-		"name": "August Wilson"
-	},
-	{
-		"quote": "Every work of art is the child of its age and, in many cases, the mother of our emotions. It follows that each period of culture produces an art of its own which can never be repeated.",
-		"name": "Wassily Kandinsky"
-	},
-	{
-		"quote": "Memory in youth is active and easily impressible; in old age it is comparatively callous to new impressions, but still retains vividly those of earlier years.",
-		"name": "Charlotte Bronte"
-	},
-	{
-		"quote": "I believe we should encourage children to sing and play instruments from an early age.",
-		"name": "Mick Jagger"
-	},
-	{
-		"quote": "The age we live in is a busy age; in which knowledge is rapidly advancing towards perfection.",
-		"name": "Jeremy Bentham"
-	},
-	{
-		"quote": "Reason is a crutch for age, but youth is strong enough to walk alone.",
-		"name": "John Dryden"
-	},
-	{
-		"quote": "We were never supposed to live until 40. We were built to self-destruct at 30, whether from cancer or mental illness. We're all going way beyond our expiration date.",
-		"name": "Douglas Coupland"
-	},
-	{
-		"quote": "No one can avoid aging, but aging productively is something else.",
-		"name": "Katharine Graham"
-	},
-	{
-		"quote": "At this age, I should be leading a quiet life.",
-		"name": "Aung San Suu Kyi"
-	},
-	{
-		"quote": "The Enlightenment, the Age of Reason, is seen as the beginning of modern depravity.",
-		"name": "Umberto Eco"
-	},
-	{
-		"quote": "By the time I had reached the age of 16, in the 10th grade, my parents, after 22 years of marriage, one day decided to get a divorce.",
-		"name": "Frank Abagnale"
-	},
-	{
-		"quote": "Middle age is the time when a man is always thinking that in a week or two he will feel as good as ever.",
-		"name": "Don Marquis"
-	},
-	{
-		"quote": "To be renewed is everything. What more could one ask for than to have one's youth back again?",
-		"name": "George Lucas"
-	},
-	{
-		"quote": "There was no respect for youth when I was young, and now that I am old, there is no respect for age, I missed it coming and going.",
-		"name": "J. B. Priestley"
-	},
-	{
-		"quote": "At a young age winning is not the most important thing... the important thing is to develop creative and skilled players with good confidence.",
-		"name": "Arsene Wenger"
-	},
-	{
-		"quote": "One of the many pleasures of old age is giving things up.",
-		"name": "Malcolm Muggeridge"
-	},
-	{
-		"quote": "The really frightening thing about middle age is the knowledge that you'll grow out of it.",
-		"name": "Doris Day"
-	},
-	{
-		"quote": "When I stepped down from the evening news at the age of 65, in '81, things were still going well. Immediately after that, the whole tenor of the CBS News Department changed.",
-		"name": "Walter Cronkite"
-	},
-	{
-		"quote": "Kids are naturally gifted at art from a very young age. The problem is when they get older and become self-conscious. The process should always be fun, though.",
-		"name": "Damien Hirst"
-	},
-	{
-		"quote": "I've been very lucky and I have a happy old age with good family and friends still around.",
-		"name": "Maeve Binchy"
-	},
-	{
-		"quote": "In this age of media and Internet access, we are much more talkative than ever before.",
-		"name": "David Duchovny"
-	},
-	{
-		"quote": "Age does not protect you from love. But love, to some extent, protects you from age.",
-		"name": "Jeanne Moreau"
-	},
-	{
-		"quote": "You end up as you deserve. In old age you must put up with the face, the friends, the health, and the children you have earned.",
-		"name": "Judith Viorst"
-	},
-	{
-		"quote": "My Girl Scout leader. She told me if I listened more and talked less, I could grow up to be a good writer. I thought that was interesting advice at age 12.",
-		"name": "Judith Viorst"
-	},
-	{
-		"quote": "Every age has a keyhole to which its eye is pasted.",
-		"name": "Mary McCarthy"
-	},
-	{
-		"quote": "My message is, you can accomplish anything, not just on the athletic field, if you're willing to work pay the price. It doesn't matter what your age.",
-		"name": "Herschel Walker"
-	},
-	{
-		"quote": "A woman tells her doctor, 'I've got a bad back.' The doctor says, 'It's old age.' The woman says, 'I want a second opinion.' The doctor says: 'Okay - you're ugly as well.'",
-		"name": "Tommy Cooper"
-	},
-	{
-		"quote": "Age has been the perfect fire extinguisher for flaming youth.",
-		"name": "Navjot Singh Sidhu"
-	},
-	{
-		"quote": "Chaga mycelium is relatively easy to grow by using methods already practiced elsewhere in the mushroom industry. Its mycelium is initially an off-whitish color, deepening with age.",
-		"name": "Paul Stamets"
-	},
-	{
-		"quote": "A few years ago, I got to a point where I realised that the only way you can tell someone's age is how they live their life. The candles on the cake mean absolutely nothing.",
-		"name": "Rob Lowe"
-	},
-	{
-		"quote": "To keep the heart unwrinkled, to be hopeful, kindly, cheerful, reverent - that is to triumph over old age.",
-		"name": "Thomas Bailey Aldrich"
-	},
-	{
-		"quote": "Talent is something that comes from within; it has nothing to do with age.",
-		"name": "Aurora"
-	},
-	{
-		"quote": "We cannot continue to allow immigrants to come here illegally. And in this age of terrorism, we must not let in refugees whose intentions cannot be determined.",
-		"name": "Nikki Haley"
-	},
-	{
-		"quote": "We live in an age of instant knowledge. And there's almost a sense of entitlement to that.",
-		"name": "J. J. Abrams"
-	},
-	{
-		"quote": "There's no such thing as old age, there is only sorrow.",
-		"name": "Fay Weldon"
-	},
-	{
-		"quote": "It doesn't matter how old people are. It matters if they love each other and have fun with each other. It has nothing to do with age. To get old is a mental disease. Everything is in the head.",
-		"name": "Nina Hagen"
-	},
-	{
-		"quote": "I remember looking up wrestling schools at the age of 10, and I emailed so many people. The responses were that I had to be 16 or 18 to train, and that was a bummer.",
-		"name": "Sasha Banks"
-	},
-	{
-		"quote": "I set the goal of getting a book contract by age thirty.",
-		"name": "Karin Slaughter"
-	},
-	{
-		"quote": "I admired my father very much... at the age of sixteen. But now I see that he was a brutal and cruel man, - but not without remorse, and that was what tortured us, his alternations.",
-		"name": "Delmore Schwartz"
-	},
-	{
-		"quote": "The good writing of any age has always been the product of someone's neurosis.",
-		"name": "William Styron"
-	},
-	{
-		"quote": "Given my age, I am pretty near the end, probably, of my career as a writer, a scholar, a teacher. And I wanted to speak of things I will not be able to do.",
-		"name": "George Steiner"
-	},
-	{
-		"quote": "It's important to maintain an attractive smile as you age. A lighter, less beige, more white tooth color is key, but no Chiclets.",
-		"name": "Evelyn Lauder"
-	},
-	{
-		"quote": "Being healthy is something I learned from a very young age. Looking after yourself on the inside helps with your energy, makes your skin glow, and changes your whole outlook on life.",
-		"name": "Phoebe Tonkin"
-	},
-	{
-		"quote": "One of the many things nobody ever tells you about middle age is that it's such a nice change from being young.",
-		"name": "Dorothy Canfield Fisher"
-	},
-	{
-		"quote": "When you age, you can do all kinds of roles. You don't have to look great. You can be the mom, the aunt. You can have a small part. You're an actor.",
-		"name": "Valerie Harper"
-	},
-	{
-		"quote": "As a traveler, I should probably count myself fortunate to be living in the jet age, and as an author, I know I am lucky to have a book tour at all.",
-		"name": "Amor Towles"
-	},
-	{
-		"quote": "After you're older, two things are possibly more important than any others: health and money.",
-		"name": "Helen Gurley Brown"
-	},
-	{
-		"quote": "My father was a Jewish immigrant who settled in Argentina and was left to his own devices at the age of 15. My mother was a teacher, herself the daughter of a poor immigrant family.",
-		"name": "Cesar Milstein"
-	},
-	{
-		"quote": "I think the selfie age is kind of making fame annoying.",
-		"name": "Syd"
-	},
-	{
-		"quote": "For some reason, we stopped getting gold stars at some age. It's time to bring them back.",
-		"name": "Ze Frank"
-	},
-	{
-		"quote": "It's a hard thing to age a character because you can't really suddenly give someone gray hair.",
-		"name": "Alison Bechdel"
-	},
-	{
-		"quote": "The lovely thing about being forty is that you can appreciate twenty-five-year-old men more.",
-		"name": "Colleen McCullough"
-	},
-	{
-		"quote": "They say eyes clear with age.",
-		"name": "Philip Larkin"
-	},
-	{
-		"quote": "Old age is an excellent time for outrage. My goal is to say or do at least one outrageous thing every week.",
-		"name": "Louis Kronenberger"
-	},
-	{
-		"quote": "If I wrote a play with four characters every single one of them would talk like me regardless of age or sex.",
-		"name": "Norman MacCaig"
-	},
-	{
-		"quote": "I am a great believer that your humor is developed at a very early age, and it doesn't ever change. You're basically the same person forever, so you find the same stuff funny forever.",
-		"name": "James Bobin"
-	},
-	{
-		"quote": "By the age of 18, I was very fat. My dad would say there's a Spall fat gene. But I was fat because I ate loads. I used to go and buy six or seven chocolate bars and eat my way through them.",
-		"name": "Rafe Spall"
-	},
-	{
-		"quote": "No man is ever old enough to know better.",
-		"name": "Holbrook Jackson"
-	},
-	{
-		"quote": "It's rough being a teenager in this day and age.",
-		"name": "Kay Panabaker"
-	},
-	{
-		"quote": "I would also like to thank my father who discouraged me from playing the violin at an early age.",
-		"name": "Paul Desmond"
-	},
-	{
-		"quote": "I don't tap dance, and I don't think you can learn to tap dance in three weeks at my ripe old age.",
-		"name": "Huey Lewis"
-	},
-	{
-		"quote": "I wasn't one of those kids who get up on the table and dance at a young age, but I always wanted to be an actor.",
-		"name": "Joe Alwyn"
-	},
-	{
-		"quote": "To resist the frigidity of old age, one must combine the body, the mind, and the heart. And to keep these in parallel vigor one must exercise, study, and love.",
-		"name": "Alan Bleasdale"
-	},
-	{
-		"quote": "Age is not our fault.",
-		"name": "Goenawan Mohamad"
-	},
-	{
-		"quote": "An artist must be a reactionary. He has to stand out against the tenor of the age and not go flopping along.",
-		"name": "Andre Maurois"
-	},
-	{
-		"quote": "My wife came here at age 8 not speaking a word of English and ended up in the president's Cabinet.",
-		"name": "Mitch McConnell"
-	},
-	{
-		"quote": "Counsel with your parents is a privilege at any age.",
-		"name": "Russell M. Nelson"
-	},
-	{
-		"quote": "Every age can be enchanting, provided you live within it.",
-		"name": "Brigitte Bardot"
-	},
-	{
-		"quote": "It is sad to grow old but nice to ripen.",
-		"name": "Brigitte Bardot"
-	},
-	{
-		"quote": "Age is not a particularly interesting subject. Anyone can get old. All you have to do is live long enough.",
-		"name": "Don Marquis"
-	},
-	{
-		"quote": "We pay when old for the excesses of youth.",
-		"name": "J. B. Priestley"
-	},
-	{
-		"quote": "We should so provide for old age that it may have no urgent wants of this world to absorb it from meditation on the next. It is awful to see the lean hands of dotage making a coffer of the grave.",
-		"name": "Pearl S. Buck"
-	},
-	{
-		"quote": "Youth is when you're allowed to stay up late on New Year's Eve. Middle age is when you're forced to.",
-		"name": "Bill Vaughan"
-	},
-	{
-		"quote": "What makes old age so sad is not that our joys but our hopes cease.",
-		"name": "Jean Paul"
-	},
-	{
-		"quote": "Gray hairs seem to my fancy like the soft light of the moon, silvering over the evening of life.",
-		"name": "Jean Paul"
-	},
-	{
-		"quote": "Middle age is youth without levity, and age without decay.",
-		"name": "Doris Day"
-	},
-	{
-		"quote": "One of the many things nobody ever tells you about middle age is that it's such a nice change from being young.",
-		"name": "William Feather"
-	},
-	{
-		"quote": "The age factor means nothing to me. I'm old enough to know my limitations and I'm young enough to exceed them.",
-		"name": "Marv Levy"
-	},
-	{
-		"quote": "Youth does not require reasons for living, it only needs pretexts.",
-		"name": "Jose Ortega y Gasset"
-	},
-	{
-		"quote": "I had been playing polo, and I decided to give up at the age of 50.",
-		"name": "Prince Philip"
-	},
-	{
-		"quote": "A woman must make her fortune before she is 30; or work after she is 30; or get married.",
-		"name": "Anna Held"
-	},
-	{
-		"quote": "If civilization has risen from the Stone Age, it can rise again from the Wastepaper Age.",
-		"name": "Jacques Barzun"
-	},
-	{
-		"quote": "Thirty-two is the age we turn into actual adults.",
-		"name": "Tom Bodett"
-	},
-	{
-		"quote": "The price of indulging yourself in your youth in the things you cannot afford is poverty and dependence in your old age.",
-		"name": "Dorothy Dix"
-	},
-	{
-		"quote": "Forty is the old age of youth, fifty is the youth of old age.",
-		"name": "Hosea Ballou"
-	},
-	{
-		"quote": "He has a profound respect for old age. Especially when it's bottled.",
-		"name": "Gene Fowler"
-	},
-	{
-		"quote": "I remember seeing 'Spinal Tap' at a young age and being like, 'That's how you perform comedy.'",
-		"name": "Bill Hader"
-	},
-	{
-		"quote": "The Atomic Age is here to stay - but are we?",
-		"name": "Bennett Cerf"
-	},
-	{
-		"quote": "While one finds company in himself and his pursuits, he cannot feel old, no matter what his years may be.",
-		"name": "Amos Bronson Alcott"
-	},
-	{
-		"quote": "My notion of a wife at 40 is that a man should be able to change her, like a bank note, for two 20s.",
-		"name": "Warren Beatty"
-	},
-	{
-		"quote": "My forays into trying to date girls my own age from the school I went to were all pretty tortured.",
-		"name": "Jackson Browne"
-	},
-	{
-		"quote": "The real sadness of fifty is not that you change so much but that you change so little.",
-		"name": "Max Lerner"
-	},
-	{
-		"quote": "Every age yearns for a more beautiful world. The deeper the desperation and the depression about the confusing present, the more intense that yearning.",
-		"name": "Johan Huizinga"
-	},
-	{
-		"quote": "At 19, everything is possible and tomorrow looks friendly.",
-		"name": "Jim Bishop"
-	},
-	{
-		"quote": "Catholics and evangelicals need to remain allied, and in solidarity, against the increasingly aggressive secularism of our age.",
-		"name": "Gary Bauer"
-	},
-	{
-		"quote": "I would not vote to raise the retirement age to 70 because there are just too many Americans that work hard all their lives and just simply physically couldn't work until they are 70.",
-		"name": "Bill Flores"
-	},
-	{
-		"quote": "You should never reveal your true age.",
-		"name": "Eve Arnold"
-	},
-	{
-		"quote": "My son is getting close to the age that I remember watching Scrooge, and as he loves to be scared, I can't wait to start my favorite holiday tradition all over again with him.",
-		"name": "Molly O'Keefe"
-	},
-	{
-		"quote": "Marxism is the only doctrine that both satisfies the demands for progress and provides a safe outlet for moral expression in a skeptical age.",
-		"name": "Paul Craig Roberts"
-	},
-	{
-		"quote": "I'm not afraid of aging.",
-		"name": "Shelley Duvall"
-	},
-	{
-		"quote": "My mom, she was, at a young age, caught up in the worldly ways. At that time, it was very intriguing to be out partying and having fun. As a young mother, she was caught in that.",
-		"name": "Amar'e Stoudemire"
-	},
-	{
-		"quote": "So people will come along and do new things and sometimes return to the spirit of an earlier age.",
-		"name": "Norman McLaren"
-	},
-	{
-		"quote": "There is an anti-aging possibility, but it has to come from within.",
-		"name": "Susan Anton"
-	},
-	{
-		"quote": "When a noble life has prepared old age, it is not decline that it reveals, but the first days of immortality.",
-		"name": "Muriel Spark"
-	},
-	{
-		"quote": "Be on the alert to recognize your prime at whatever time of your life it may occur.",
-		"name": "Muriel Spark"
-	},
-	{
-		"quote": "I've always been involved with the performing arts from a young age.",
-		"name": "Aquaria"
-	},
-	{
-		"quote": "I get all fired up about aging in America.",
-		"name": "Willard Scott"
-	},
-	{
-		"quote": "Each age tries to form its own conception of the past. Each age writes the history of the past anew with reference to the conditions uppermost in its own time.",
-		"name": "Frederick Jackson Turner"
-	},
-	{
-		"quote": "My dad just imprinted in my mind from a very young age that you always do what you say you're gonna do when you say you're gonna do it.",
-		"name": "Bob Corker"
-	},
-	{
-		"quote": "When I was as you are now, towering in the confidence of twenty-one, little did I suspect that I should be at forty-nine, what I now am.",
-		"name": "Sarah Orne Jewett"
-	},
-	{
-		"quote": "Our civilization is now in the transition stage between the age of warring empires and a new age of world unity and peace.",
-		"name": "John Boyd Orr"
-	},
-	{
-		"quote": "We seem to live in an age where we are quietly appalled by the idea of appetites, whether they be for sex, food or diamonds.",
-		"name": "Jojo Moyes"
-	},
-	{
-		"quote": "My first recognition of age setting in was exactly on my 36th birthday. I have no idea why, on this day of all days, I looked in the mirror and realized my face no longer looked young.",
-		"name": "Paulina Porizkova"
-	},
-	{
-		"quote": "I hope I'll die on stage at the age at 105, playing Peter Pan.",
-		"name": "Joan Fontaine"
-	},
-	{
-		"quote": "I don't want to fight aging; I want to take good care of myself, but plastic surgery and all that? I'm not interested.",
-		"name": "Christine Lahti"
-	},
-	{
-		"quote": "From a young age I was obsessed with the mysterious, the esoteric, the paranormal.",
-		"name": "Drummond Money-Coutts"
-	},
-	{
-		"quote": "Old age adds to the respect due to virtue, but it takes nothing from the contempt inspired by vice; it whitens only the hair.",
-		"name": "Ira Gershwin"
-	},
-	{
-		"quote": "As you age naturally, your family shows more and more on your face. If you deny that, you deny your heritage.",
-		"name": "Frances Conroy"
-	},
-	{
-		"quote": "I didn't have a normal background - I was completely demented from a very early age!",
-		"name": "Bill Paxton"
-	},
-	{
-		"quote": "At the age of nine, playing the violin at school, and then onto the mandolin.",
-		"name": "Noel Redding"
-	},
-	{
-		"quote": "The whole business of marshaling one's energies becomes more and more important as one grows older.",
-		"name": "Hume Cronyn"
-	},
-	{
-		"quote": "The answer to old age is to keep one's mind busy and to go on with one's life as if it were interminable. I always admired Chekhov for building a new house when he was dying of tuberculosis.",
-		"name": "Leon Edel"
-	},
-	{
-		"quote": "I find that a man is as old as his work. If his work keeps him from moving forward, he will look forward with the work.",
-		"name": "William Ernest Hocking"
-	}
-]
+	"quote": "Love has no age, no limit; and no death.",
+	"name": "John Galsworthy"
+}, {
+	"quote": "Let us never know what old age is. Let us know the happiness time brings, not count the years.",
+	"name": "Ausonius"
+}, {
+	"quote": "Youth is the gift of nature, but age is a work of art.",
+	"name": "Stanislaw Jerzy Lec"
+}, {
+	"quote": "Age is a case of mind over matter. If you don't mind, it don't matter.",
+	"name": "Satchel Paige"
+}, {
+	"quote": "Cherish all your happy moments; they make a fine cushion for old age.",
+	"name": "Booth Tarkington"
+}, {
+	"quote": "Try to keep your soul young and quivering right up to old age.",
+	"name": "George Sand"
+}, {
+	"quote": "Age is something that doesn't matter, unless you are a cheese.",
+	"name": "Luis Bunuel"
+}, {
+	"quote": "Marriage is not about age; it's about finding the right person.",
+	"name": "Sophia Bush"
+}, {
+	"quote": "Do not go gentle into that good night but rage, rage against the dying of the light.",
+	"name": "Dylan Thomas"
+}, {
+	"quote": "Age is an issue of mind over matter. If you don't mind, it doesn't matter.",
+	"name": "Mark Twain"
+}, {
+	"quote": "Age and size are only numbers. It's the attitude you bring to clothes that make the difference.",
+	"name": "Donna Karan"
+}, {
+	"quote": "There is a plan and a purpose, a value to every life, no matter what its location, age, gender or disability.",
+	"name": "Sharron Angle"
+}, {
+	"quote": "Aging is not lost youth but a new stage of opportunity and strength.",
+	"name": "Betty Friedan"
+}, {
+	"quote": "I'm very mature for my age, but I'm also innocent in a lot of ways.",
+	"name": "Kirsten Dunst"
+}, {
+	"quote": "Old age is just a record of one's whole life.",
+	"name": "Muhammad Ali"
+}, {
+	"quote": "The age of a woman doesn't mean a thing. The best tunes are played on the oldest fiddles.",
+	"name": "Ralph Waldo Emerson"
+}, {
+	"quote": "Youth has no age.",
+	"name": "Pablo Picasso"
+}, {
+	"quote": "You can't help getting older, but you don't have to get old.",
+	"name": "George Burns"
+}, {
+	"quote": "To me - old age is always ten years older than I am.",
+	"name": "Bernard Baruch"
+}, {
+	"quote": "Wrinkles should merely indicate where smiles have been.",
+	"name": "Mark Twain"
+}, {
+	"quote": "There's a vintage which comes with age and experience.",
+	"name": "Jon Bon Jovi"
+}, {
+	"quote": "Just remember, once you're over the hill you begin to pick up speed.",
+	"name": "Arthur Schopenhauer"
+}, {
+	"quote": "Old minds are like old horses; you must exercise them if you wish to keep them in working order.",
+	"name": "John Adams"
+}, {
+	"quote": "Youth is a blunder; Manhood a struggle, Old Age a regret.",
+	"name": "Benjamin Disraeli"
+}, {
+	"quote": "True terror is to wake up one morning and discover that your high school class is running the country.",
+	"name": "Kurt Vonnegut"
+}, {
+	"quote": "Age wrinkles the body. Quitting wrinkles the soul.",
+	"name": "Douglas MacArthur"
+}, {
+	"quote": "The excitement of learning separates youth from old age. As long as you're learning you're not old.",
+	"name": "Rosalyn Sussman Yalow"
+}, {
+	"quote": "A diplomat is a man who always remembers a woman's birthday but never remembers her age.",
+	"name": "Robert Frost"
+}, {
+	"quote": "Old age is like everything else. To make a success of it, you've got to start young.",
+	"name": "Theodore Roosevelt"
+}, {
+	"quote": "When grace is joined with wrinkles, it is adorable. There is an unspeakable dawn in happy old age.",
+	"name": "Victor Hugo"
+}, {
+	"quote": "Youth is the best time to be rich, and the best time to be poor.",
+	"name": "Euripides"
+}, {
+	"quote": "Education is the best provision for old age.",
+	"name": "Aristotle"
+}, {
+	"quote": "As I grow older, I pay less attention to what men say. I just watch what they do.",
+	"name": "Andrew Carnegie"
+}, {
+	"quote": "I will never be an old man. To me, old age is always 15 years older than I am.",
+	"name": "Francis Bacon"
+}, {
+	"quote": "At my age flowers scare me.",
+	"name": "George Burns"
+}, {
+	"quote": "Legend: A lie that has attained the dignity of age.",
+	"name": "H. L. Mencken"
+}, {
+	"quote": "Old age and treachery will always beat youth and exuberance.",
+	"name": "David Mamet"
+}, {
+	"quote": "'Age' is the acceptance of a term of years. But maturity is the glory of years.",
+	"name": "Martha Graham"
+}, {
+	"quote": "In age of consumerism and materialism, I traffic in blue sky and colored air.",
+	"name": "James Turrell"
+}, {
+	"quote": "My love for ice cream emerged at an early age - and has never left!",
+	"name": "Ginger Rogers"
+}, {
+	"quote": "I'm happy to report that my inner child is still ageless.",
+	"name": "James Broughton"
+}, {
+	"quote": "The trick is growing up without growing old.",
+	"name": "Casey Stengel"
+}, {
+	"quote": "Forty is the old age of youth; fifty the youth of old age.",
+	"name": "Victor Hugo"
+}, {
+	"quote": "In youth we learn; in age we understand.",
+	"name": "Marie von Ebner-Eschenbach"
+}, {
+	"quote": "Old age is like a plane flying through a storm. Once you're aboard, there's nothing you can do.",
+	"name": "Golda Meir"
+}, {
+	"quote": "Old age and sickness bring out the essential characteristics of a man.",
+	"name": "Felix Frankfurter"
+}, {
+	"quote": "Common sense is the collection of prejudices acquired by age eighteen.",
+	"name": "Albert Einstein"
+}, {
+	"quote": "The old believe everything, the middle-aged suspect everything, the young know everything.",
+	"name": "Oscar Wilde"
+}, {
+	"quote": "Be eccentric now. Don't wait for old age to wear purple.",
+	"name": "Regina Brett"
+}, {
+	"quote": "None are so old as those who have outlived enthusiasm.",
+	"name": "Henry David Thoreau"
+}, {
+	"quote": "We live in the age of the refugee, the age of the exile.",
+	"name": "Ariel Dorfman"
+}, {
+	"quote": "The secret of staying young is to live honestly, eat slowly, and lie about your age.",
+	"name": "Lucille Ball"
+}, {
+	"quote": "Confusion of goals and perfection of means seems, in my opinion, to characterize our age.",
+	"name": "Albert Einstein"
+}, {
+	"quote": "Makeup can make a woman look more beautiful at every age.",
+	"name": "Francois Nars"
+}, {
+	"quote": "We aren't in an information age, we are in an entertainment age.",
+	"name": "Tony Robbins"
+}, {
+	"quote": "As men get older, the toys get more expensive.",
+	"name": "Marvin Davis"
+}, {
+	"quote": "Age considers; youth ventures.",
+	"name": "Rabindranath Tagore"
+}, {
+	"quote": "I must confess, I was born at a very early age.",
+	"name": "Groucho Marx"
+}, {
+	"quote": "There are only three things that can kill a farmer: lightning, rolling over in a tractor, and old age.",
+	"name": "Bill Bryson"
+}, {
+	"quote": "To me, age doesn't make a difference in terms of how playful or fun life can be.",
+	"name": "Brit Morin"
+}, {
+	"quote": "Men are like wine - some turn to vinegar, but the best improve with age.",
+	"name": "Pope John XXIII"
+}, {
+	"quote": "Old age is no place for sissies.",
+	"name": "Bette Davis"
+}, {
+	"quote": "Age is just a number. Life and aging are the greatest gifts that we could possibly ever have.",
+	"name": "Cicely Tyson"
+}, {
+	"quote": "Age does not make us childish, as some say; it finds us true children.",
+	"name": "James Anthony Froude"
+}, {
+	"quote": "Bad news isn't wine. It doesn't improve with age.",
+	"name": "Colin Powell"
+}, {
+	"quote": "Old age and the passage of time teach all things.",
+	"name": "Sophocles"
+}, {
+	"quote": "To keep the heart unwrinkled, to be hopeful, kindly, cheerful, reverent that is to triumph over old age.",
+	"name": "Amos Bronson Alcott"
+}, {
+	"quote": "If you love someone, you love someone. It doesn't matter; age, colour, c'mon!",
+	"name": "Sam Taylor-Johnson"
+}, {
+	"quote": "Age is a very high price to pay for maturity.",
+	"name": "Tom Stoppard"
+}, {
+	"quote": "Bashfulness is an ornament to youth, but a reproach to old age.",
+	"name": "Aristotle"
+}, {
+	"quote": "If youth knew; if age could.",
+	"name": "Sigmund Freud"
+}, {
+	"quote": "Age is just a number. It's totally irrelevant unless, of course, you happen to be a bottle of wine.",
+	"name": "Joan Collins"
+}, {
+	"quote": "Age does not protect you from love. But love, to some extent, protects you from age.",
+	"name": "Anais Nin"
+}, {
+	"quote": "American youth attributes much more importance to arriving at driver's license age than at voting age.",
+	"name": "Marshall McLuhan"
+}, {
+	"quote": "Age is inevitable. Aging isn't.",
+	"name": "Marv Levy"
+}, {
+	"quote": "Fitness has nothing to do with age.",
+	"name": "Virender Sehwag"
+}, {
+	"quote": "To keep the heart unwrinkled, to be hopeful, kindly, cheerful, reverent - that is to triumph over old age.",
+	"name": "Thomas Bailey Aldrich"
+}, {
+	"quote": "Everybody is playing games. There are games now for pretty much every age, every demographic.",
+	"name": "Jesse Schell"
+}, {
+	"quote": "Filth and old age, I'm sure you will agree, are powerful wardens upon chastity.",
+	"name": "Geoffrey Chaucer"
+}, {
+	"quote": "Old age has its pleasures, which, though different, are not less than the pleasures of youth.",
+	"name": "W. Somerset Maugham"
+}, {
+	"quote": "In a digital age, I still love sending and receiving cards, hand-writing notes, and wrapping gifts.",
+	"name": "Matthew Williamson"
+}, {
+	"quote": "The ruling ideas of each age have ever been the ideas of its ruling class.",
+	"name": "Karl Marx"
+}, {
+	"quote": "Dissents speak to a future age.",
+	"name": "Ruth Bader Ginsburg"
+}, {
+	"quote": "Surrounding myself with beautiful women keeps me young.",
+	"name": "Hugh Hefner"
+}, {
+	"quote": "Adults are obsolete children.",
+	"name": "Dr. Seuss"
+}, {
+	"quote": "Youth cannot know how age thinks and feels. But old men are guilty if they forget what it was to be young.",
+	"name": "J. K. Rowling"
+}, {
+	"quote": "The harvest of old age is the recollection and abundance of blessing previously secured.",
+	"name": "Marcus Tullius Cicero"
+}, {
+	"quote": "Hesitation increases in relation to risk in equal proportion to age.",
+	"name": "Ernest Hemingway"
+}, {
+	"quote": "It's sad, actually, because my anxiety keeps me from enjoying things as much as I should at this age.",
+	"name": "Amanda Seyfried"
+}, {
+	"quote": "You can fake your age or mask it, but the passion that moves the characters has to be real.",
+	"name": "Victoria Abril"
+}, {
+	"quote": "How incessant and great are the ills with which a prolonged old age is replete.",
+	"name": "C. S. Lewis"
+}, {
+	"quote": "Nature gives you the face you have at twenty; it is up to you to merit the face you have at fifty.",
+	"name": "Coco Chanel"
+}, {
+	"quote": "A graceful and honorable old age is the childhood of immortality.",
+	"name": "Pindar"
+}, {
+	"quote": "Old age is the most unexpected of all things that happen to a man.",
+	"name": "Leon Trotsky"
+}, {
+	"quote": "I will never give in to old age until I become old. And I'm not old yet!",
+	"name": "Tina Turner"
+}, {
+	"quote": "Those who love deeply never grow old; they may die of old age, but they die young.",
+	"name": "Dorothy Canfield Fisher"
+}, {
+	"quote": "Old age is the most unexpected of all the things that can happen to a man.",
+	"name": "James Thurber"
+}, {
+	"quote": "A man does not die of love or his liver or even of old age; he dies of being a man.",
+	"name": "Miguel de Unamuno"
+}, {
+	"quote": "Let age, not envy, draw wrinkles on thy cheeks.",
+	"name": "Thomas Browne"
+}, {
+	"quote": "Middle age is when your old classmates are so grey and wrinkled and bald they don't recognize you.",
+	"name": "Bennett Cerf"
+}, {
+	"quote": "Believe me, that was a happy age, before the days of architects, before the days of builders.",
+	"name": "Lucius Annaeus Seneca"
+}, {
+	"quote": "Some age, others mature.",
+	"name": "Sean Connery"
+}, {
+	"quote": "The mind that is wise mourns less for what age takes away; than what it leaves behind.",
+	"name": "William Wordsworth"
+}, {
+	"quote": "It is not possible to live in this age if you don't have a sense of many contradictory forces.",
+	"name": "Rem Koolhaas"
+}, {
+	"quote": "Each age has deemed the new-born year the fittest time for festal cheer.",
+	"name": "Walter Scott"
+}, {
+	"quote": "We're in an age of enlightenment, and we have a choice as a society which path to take.",
+	"name": "Rhys Ifans"
+}, {
+	"quote": "Rashness belongs to youth; prudence to old age.",
+	"name": "Marcus Tullius Cicero"
+}, {
+	"quote": "I'm inspired by people who keep on rolling, no matter their age.",
+	"name": "Jimmy Buffett"
+}, {
+	"quote": "So, you know, I think the age of exploration is just beginning, not ending, on our planet.",
+	"name": "Robert Ballard"
+}, {
+	"quote": "With age, you get to a place where you don't want to knock people out. You just want to give people a hug.",
+	"name": "Vin Diesel"
+}, {
+	"quote": "At the age of 21, I had never even stepped on a treadmill.",
+	"name": "Nikki Reed"
+}, {
+	"quote": "Age has been the perfect fire extinguisher for flaming youth.",
+	"name": "Navjot Singh Sidhu"
+}, {
+	"quote": "In a machine age, dressmaking is one of the last refuges of the human, the personal, the inimitable.",
+	"name": "Christian Dior"
+}, {
+	"quote": "Another belief of mine; that everyone else my age is an adult, whereas I am merely in disguise.",
+	"name": "Margaret Atwood"
+}, {
+	"quote": "Old age: the crown of life, our play's last act.",
+	"name": "Marcus Tullius Cicero"
+}, {
+	"quote": "All diseases run into one, old age.",
+	"name": "Ralph Waldo Emerson"
+}, {
+	"quote": "In youth, the days are short and the years are long. In old age, the years are short and days long.",
+	"name": "Pope Paul VI"
+}, {
+	"quote": "In every country and every age, the priest had been hostile to Liberty.",
+	"name": "Thomas Jefferson"
+}, {
+	"quote": "Exposure from a young age to the realities of the world is a super-big thing.",
+	"name": "Bill Gates"
+}, {
+	"quote": "Age is whatever you think it is. You are as old as you think you are.",
+	"name": "Muhammad Ali"
+}, {
+	"quote": "Youth is wasted on the young.",
+	"name": "George Bernard Shaw"
+}, {
+	"quote": "Growing old is no more than a bad habit which a busy person has no time to form.",
+	"name": "Andre Maurois"
+}, {
+	"quote": "The age of chivalry is past. Bores have succeeded to dragons.",
+	"name": "Charles Dickens"
+}, {
+	"quote": "Mindfulness can help people of any age. That's because we become what we think.",
+	"name": "Goldie Hawn"
+}, {
+	"quote": "Difficult choices, unlike red wine, rarely improve with age.",
+	"name": "Richard N. Haass"
+}, {
+	"quote": "The people who live in a golden age usually go around complaining how yellow everything looks.",
+	"name": "Randall Jarrell"
+}, {
+	"quote": "Age is not important unless you're a cheese.",
+	"name": "Helen Hayes"
+}, {
+	"quote": "What most persons consider as virtue, after the age of 40 is simply a loss of energy.",
+	"name": "Voltaire"
+}, {
+	"quote": "What though youth gave love and roses, Age still leaves us friends and wine.",
+	"name": "Thomas Moore"
+}, {
+	"quote": "I was lucky to move around different cultures at an early age and have experience of different lifestyles.",
+	"name": "Paolo Nutini"
+}, {
+	"quote": "Age is relative. Experience is relative. And I think often intensity is confused with maturity.",
+	"name": "Laura Marling"
+}, {
+	"quote": "The age of chivalry has gone; the age of humanity has come.",
+	"name": "Charles Sumner"
+}, {
+	"quote": "Every man desires to live long, but no man wishes to be old.",
+	"name": "Jonathan Swift"
+}, {
+	"quote": "Sex at age 90 is like trying to shoot pool with a rope.",
+	"name": "George Burns"
+}, {
+	"quote": "We're seeing the arrival of conversational robots that can walk in our world. It's a golden age of invention.",
+	"name": "David Hanson"
+}, {
+	"quote": "I am, as I've said, merely competent. But in an age of incompetence, that makes me extraordinary.",
+	"name": "Billy Joel"
+}, {
+	"quote": "Middle age is when your age starts to show around your middle.",
+	"name": "Bob Hope"
+}, {
+	"quote": "I think age is a very high price to pay for maturity.",
+	"name": "Tom Stoppard"
+}, {
+	"quote": "A man knows when he is growing old because he begins to look like his father.",
+	"name": "Gabriel Garcia Marquez"
+}, {
+	"quote": "A woman telling her true age is like a buyer confiding his final price to an Armenian rug dealer.",
+	"name": "Mignon McLaughlin"
+}, {
+	"quote": "Laughter crosses boundaries of class and age... Humour is universal.",
+	"name": "Jeremy Lloyd"
+}, {
+	"quote": "Twenty-two is just such a random age. It's a little blah.",
+	"name": "Jennifer Damiano"
+}, {
+	"quote": "The golden age is before us, not behind us.",
+	"name": "Simon the Zealot"
+}, {
+	"quote": "For me, love is endless, and love has no age limit.",
+	"name": "Khalid"
+}, {
+	"quote": "Our age knows nothing but reaction, and leaps from one extreme to another.",
+	"name": "Reinhold Niebuhr"
+}, {
+	"quote": "Youth is the time of getting, middle age of improving, and old age of spending.",
+	"name": "Anne Bradstreet"
+}, {
+	"quote": "For the moment I prefer to be a beautiful woman of my age than try desperately to look 30.",
+	"name": "Demi Moore"
+}, {
+	"quote": "The nicest thing about coming of age is that I can do whatever I like.",
+	"name": "Cilla Black"
+}, {
+	"quote": "Age does not bring you wisdom, age brings you wrinkles.",
+	"name": "Estelle Getty"
+}, {
+	"quote": "We've put more effort into helping folks reach old age than into helping them enjoy it.",
+	"name": "Frank A. Clark"
+}, {
+	"quote": "I've gotten to the age where I'm comfortable with just about everything - except getting old!",
+	"name": "Patty Duke"
+}, {
+	"quote": "You just never know when you're living in a golden age.",
+	"name": "Alexander Payne"
+}, {
+	"quote": "Keep in mind that diversity does not just mean black. It means all of it - age, weight, gender.",
+	"name": "Tracee Ellis Ross"
+}, {
+	"quote": "I've always loved music and was singing from the age of seven on karaoke.",
+	"name": "Christina Grimmie"
+}, {
+	"quote": "Stone Age. Bronze Age. Iron Age. We define entire epics of humanity by the technology they use.",
+	"name": "Reed Hastings"
+}, {
+	"quote": "This is the strange thing: Dancers don't age.",
+	"name": "Twyla Tharp"
+}, {
+	"quote": "There's no excuse for fur in this day and age.",
+	"name": "Stella McCartney"
+}, {
+	"quote": "Old age isn't a battle; old age is a massacre.",
+	"name": "Philip Roth"
+}, {
+	"quote": "Middle age is when your broad mind and narrow waist begin to change places.",
+	"name": "E. Joseph Cossman"
+}, {
+	"quote": "The New Age? It's just the old age stuck in a microwave oven for fifteen seconds.",
+	"name": "James Randi"
+}, {
+	"quote": "Old age is a shipwreck.",
+	"name": "Charles de Gaulle"
+}, {
+	"quote": "Chinese people age overnight.",
+	"name": "Karl Pilkington"
+}, {
+	"quote": "If I had one regret in life... it's that I was not more humble at an earlier age.",
+	"name": "Rick Pitino"
+}, {
+	"quote": "Whoever marries the spirit of this age will find himself a widower in the next.",
+	"name": "William Inge"
+}, {
+	"quote": "Nobody escapes age and gravity.",
+	"name": "Harlan Ellison"
+}, {
+	"quote": "Middle age is the awkward period when Father Time starts catching up with Mother Nature.",
+	"name": "Harold Coffin"
+}, {
+	"quote": "I think your whole life shows in your face and you should be proud of that.",
+	"name": "Lauren Bacall"
+}, {
+	"quote": "I know not age, nor weariness nor defeat.",
+	"name": "Rose Kennedy"
+}, {
+	"quote": "Each moment of a happy lover's hour is worth an age of dull and common life.",
+	"name": "Aphra Behn"
+}, {
+	"quote": "A man loves the meat in his youth that he cannot endure in his age.",
+	"name": "William Shakespeare"
+}, {
+	"quote": "The heresy of one age becomes the orthodoxy of the next.",
+	"name": "Helen Keller"
+}, {
+	"quote": "We have to have a diversity of age represented in Congress, too.",
+	"name": "Alexandria Ocasio-Cortez"
+}, {
+	"quote": "Each age, it is found, must write its own books; or rather, each generation for the next succeeding.",
+	"name": "Ralph Waldo Emerson"
+}, {
+	"quote": "At twenty years of age the will reigns; at thirty, the wit; and at forty, the judgment.",
+	"name": "Benjamin Franklin"
+}, {
+	"quote": "Loving someone liberates the lover as well as the beloved. And that kind of love comes with age.",
+	"name": "Maya Angelou"
+}, {
+	"quote": "How young can you die of old age?",
+	"name": "Steven Wright"
+}, {
+	"quote": "Old age has deformities enough of its own. It should never add to them the deformity of vice.",
+	"name": "Eleanor Roosevelt"
+}, {
+	"quote": "I am of a healthy long lived race, and our minds improve with age.",
+	"name": "William Butler Yeats"
+}, {
+	"quote": "With age comes the understanding and appreciation of your most important asset, your health.",
+	"name": "Oprah Winfrey"
+}, {
+	"quote": "No woman should ever be quite accurate about her age. It looks so calculating.",
+	"name": "Oscar Wilde"
+}, {
+	"quote": "If you're old, don't try to change yourself, change your environment.",
+	"name": "B. F. Skinner"
+}, {
+	"quote": "We prefer world law in the age of self-determination to world war in the age of mass extermination.",
+	"name": "John F. Kennedy"
+}, {
+	"quote": "We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely.",
+	"name": "Frank Abagnale"
+}, {
+	"quote": "We're not in an information age anymore. We're in the information management age.",
+	"name": "Chris Hardwick"
+}, {
+	"quote": "My view is that at a younger age your optimism is more and you have more imagination etc. You have less bias.",
+	"name": "A. P. J. Abdul Kalam"
+}, {
+	"quote": "The older I grow the more I distrust the familiar doctrine that age brings wisdom.",
+	"name": "H. L. Mencken"
+}, {
+	"quote": "I knew what I wanted to do in sport from the age of nine.",
+	"name": "Magdalena Neuner"
+}, {
+	"quote": "I often joke that 100 years from now I hope people are saying, 'Dang, she looks good for her age!'",
+	"name": "Dolly Parton"
+}, {
+	"quote": "Every man over forty is a scoundrel.",
+	"name": "George Bernard Shaw"
+}, {
+	"quote": "He who has not the spirit of this age, has all the misery of it.",
+	"name": "Voltaire"
+}, {
+	"quote": "Alas, after a certain age every man is responsible for his face.",
+	"name": "Albert Camus"
+}, {
+	"quote": "The arrogance of age must submit to be taught by youth.",
+	"name": "Edmund Burke"
+}, {
+	"quote": "I don't need you to remind me of my age. I have a bladder to do that for me.",
+	"name": "Stephen Fry"
+}, {
+	"quote": "Privacy is one of the biggest problems in this new electronic age.",
+	"name": "Andy Grove"
+}, {
+	"quote": "Old age is not a matter for sorrow. It is matter for thanks if we have left our work done behind us.",
+	"name": "Thomas Carlyle"
+}, {
+	"quote": "The first crocodile I ever caught was at nine years of age, and it was a rescue.",
+	"name": "Steve Irwin"
+}, {
+	"quote": "When it comes to age, I just feel like puberty is, like, the most horrible time of anyone's life.",
+	"name": "Sam Smith"
+}, {
+	"quote": "By Time and Age full many things are taught.",
+	"name": "Aeschylus"
+}, {
+	"quote": "Whether you are just entering the workforce or nearing retirement age, planning for the future is critical.",
+	"name": "Ron Lewis"
+}, {
+	"quote": "Looking back, I realise I had to grow up and be responsible at a very tender age.",
+	"name": "Andie MacDowell"
+}, {
+	"quote": "The golden age has not passed; it lies in the future.",
+	"name": "Paul Signac"
+}, {
+	"quote": "The love story for me was the nature of the love and not the age of the lovers.",
+	"name": "Kate Capshaw"
+}, {
+	"quote": "Publishing is in a kind of Jurassic age.",
+	"name": "Paulo Coelho"
+}, {
+	"quote": "What Youth deemed crystal, Age finds out was dew.",
+	"name": "Robert Browning"
+}, {
+	"quote": "Old age comes on suddenly, and not gradually as is thought.",
+	"name": "Emily Dickinson"
+}, {
+	"quote": "Most of the basic material a writer works with is acquired before the age of fifteen.",
+	"name": "Willa Cather"
+}, {
+	"quote": "In youth we run into difficulties. In old age difficulties run into us.",
+	"name": "Josh Billings"
+}, {
+	"quote": "I think love can happen at any age... it has no age.",
+	"name": "Shah Rukh Khan"
+}, {
+	"quote": "The credit of advancing science has always been due to individuals and never to the age.",
+	"name": "Johann Wolfgang von Goethe"
+}, {
+	"quote": "It is not how old you are, but how you are old.",
+	"name": "Jules Renard"
+}, {
+	"quote": "Not to expose your true feelings to an adult seems to be instinctive from the age of seven or eight onwards.",
+	"name": "George Orwell"
+}, {
+	"quote": "With age comes common sense and wisdom.",
+	"name": "Nas"
+}, {
+	"quote": "There's no such thing as old age. I'm no different now than I was 50 years ago. I'm just having more fun.",
+	"name": "Philip Johnson"
+}, {
+	"quote": "Wives are young men's mistresses, companions for middle age, and old men's nurses.",
+	"name": "Francis Bacon"
+}, {
+	"quote": "The age of innocent faith in science and technology may be over.",
+	"name": "Barry Commoner"
+}, {
+	"quote": "Minds ripen at very different ages.",
+	"name": "Stevie Wonder"
+}, {
+	"quote": "I'd always tried to resist playing the supervirility thing. I liked showing the vulnerability of age.",
+	"name": "Clint Eastwood"
+}, {
+	"quote": "There is nothing in socialism that a little age or a little money will not cure.",
+	"name": "Will Durant"
+}, {
+	"quote": "It's a great thing to live in a digital age. It's convenient; it's fast.",
+	"name": "Loretta Lynch"
+}, {
+	"quote": "Age is no barrier. It's a limitation you put on your mind.",
+	"name": "Jackie Joyner-Kersee"
+}, {
+	"quote": "You're supposed to be using your gifts and fulfilling your dreams, at every age.",
+	"name": "Victoria Moran"
+}, {
+	"quote": "The great thing about show business is that there's no mandatory retirement age.",
+	"name": "Scott Bakula"
+}, {
+	"quote": "Love makes those young whom age doth chill, and whom he finds young keeps young still.",
+	"name": "William Cartwright"
+}, {
+	"quote": "An archaeologist is the best husband a woman can have. The older she gets the more interested he is in her.",
+	"name": "Agatha Christie"
+}, {
+	"quote": "Age merely shows what children we remain.",
+	"name": "Johann Wolfgang von Goethe"
+}, {
+	"quote": "Error is acceptable as long as we are young; but one must not drag it along into old age.",
+	"name": "Johann Wolfgang von Goethe"
+}, {
+	"quote": "Leadership in telecommunications is also essential, since we are now in the age of e-commerce.",
+	"name": "Michael Oxley"
+}, {
+	"quote": "Age imprints more wrinkles in the mind than it does on the face.",
+	"name": "Michel de Montaigne"
+}, {
+	"quote": "Whatever you may look like, marry a man your own age - as your beauty fades, so will his eyesight.",
+	"name": "Phyllis Diller"
+}, {
+	"quote": "Second to agriculture, humbug is the biggest industry of our age.",
+	"name": "Alfred Nobel"
+}, {
+	"quote": "Women lie about their age; men lie about their income.",
+	"name": "William Feather"
+}, {
+	"quote": "It is not well to make great changes in old age.",
+	"name": "Charles Spurgeon"
+}, {
+	"quote": "The passions grafted on wounded pride are the most inveterate; they are green and vigorous in old age.",
+	"name": "George Santayana"
+}, {
+	"quote": "Morality comes with the sad wisdom of age, when the sense of curiosity has withered.",
+	"name": "Graham Greene"
+}, {
+	"quote": "Even one voice can be heard loudly all over the world in this day and age.",
+	"name": "Aung San Suu Kyi"
+}, {
+	"quote": "I smoke ten to fifteen cigars a day. At my age I have to hold on to something.",
+	"name": "George Burns"
+}, {
+	"quote": "I think being able to age gracefully is a very important talent. It is too late for me.",
+	"name": "Clint Eastwood"
+}, {
+	"quote": "A grownup is a child with layers on.",
+	"name": "Woody Harrelson"
+}, {
+	"quote": "But an old age serene and bright, and lovely as a Lapland night, shall lead thee to thy grave.",
+	"name": "William Wordsworth"
+}, {
+	"quote": "It is so important for people at a young age to be invited to embrace classical music and opera.",
+	"name": "Luciano Pavarotti"
+}, {
+	"quote": "Old age isn't so bad when you consider the alternative.",
+	"name": "Maurice Chevalier"
+}, {
+	"quote": "When you start being enthusiastic about whatever it is you like, that is the golden age for you.",
+	"name": "Michael Winterbottom"
+}, {
+	"quote": "A woman has the age she deserves.",
+	"name": "Coco Chanel"
+}, {
+	"quote": "What is an adult? A child blown up by age.",
+	"name": "Simone de Beauvoir"
+}, {
+	"quote": "Temper never mellows with age, and a sharp tongue is the only edged tool that grows keener with constant use.",
+	"name": "Washington Irving"
+}, {
+	"quote": "When I turned 60, it didn't bother me at all.",
+	"name": "Yoko Ono"
+}, {
+	"quote": "A man growing old becomes a child again.",
+	"name": "Sophocles"
+}, {
+	"quote": "I have the problems of, I must confess, old age.",
+	"name": "Billy Graham"
+}, {
+	"quote": "Life, an age to the miserable, and a moment to the happy.",
+	"name": "Francis Bacon"
+}, {
+	"quote": "If you live to be one hundred, you've got it made. Very few people die past that age.",
+	"name": "George Burns"
+}, {
+	"quote": "Retirement at sixty-five is ridiculous. When I was sixty-five I still had pimples.",
+	"name": "George Burns"
+}, {
+	"quote": "As we grow older, our bodies get shorter and our anecdotes longer.",
+	"name": "Robert Quillen"
+}, {
+	"quote": "Even truth needs to be clad in new garments if it is to appeal to a new age.",
+	"name": "Georg C. Lichtenberg"
+}, {
+	"quote": "There are certain age limits on police officers. They'd have retired me out at 65.",
+	"name": "Clint Eastwood"
+}, {
+	"quote": "I think there is a lot made out of age, and what age you feel.",
+	"name": "Clint Eastwood"
+}, {
+	"quote": "We will not continue to be in the post-'79 era. That age is over.",
+	"name": "Mohammad bin Salman"
+}, {
+	"quote": "I lived the true American dream, because I was able to pursue what I set as my goals at a very young age.",
+	"name": "Mario Andretti"
+}, {
+	"quote": "Keep courage. Whatever you do, do not feel sorry for yourself. You will win in a great age of opportunity.",
+	"name": "Richard L. Evans"
+}, {
+	"quote": "Age is strictly a case of mind over matter. If you don't mind, it doesn't matter.",
+	"name": "Jack Benny"
+}, {
+	"quote": "In our digital age, the Golden Rule is not enforced online.",
+	"name": "Whitney Wolfe Herd"
+}, {
+	"quote": "Italians know that what matters is style, not fashion. Italian style does not have social or age boundaries.",
+	"name": "Stefano Gabbana"
+}, {
+	"quote": "A man who correctly guesses a woman's age may be smart, but he's not very bright.",
+	"name": "Lucille Ball"
+}, {
+	"quote": "After 12 years, the old butterflies came back. Well, I guess at my age you call them moths.",
+	"name": "Franco Harris"
+}, {
+	"quote": "There are mysteries which men can only guess at, which age by age they may solve only in part.",
+	"name": "Bram Stoker"
+}, {
+	"quote": "If my idol Mahatma Gandhi could fight to eradicate corruption at the age of 78, why can't I try at 60?",
+	"name": "Kamal Haasan"
+}, {
+	"quote": "Everyone talks about age, but it's not about age. It's about work ethic. Winning never gets old.",
+	"name": "Lisa Leslie"
+}, {
+	"quote": "I am a great believer in naps, whatever age you are.",
+	"name": "Shirley Eaton"
+}, {
+	"quote": "Invention is the talent of youth, as judgment is of age.",
+	"name": "Jonathan Swift"
+}, {
+	"quote": "Revenge is the naked idol of the worship of a semi-barbarous age.",
+	"name": "Percy Bysshe Shelley"
+}, {
+	"quote": "What's a man's age? He must hurry more, that's all; Cram in a day, what his youth took a year to hold.",
+	"name": "Robert Browning"
+}, {
+	"quote": "We are always the same age inside.",
+	"name": "Gertrude Stein"
+}, {
+	"quote": "With increasing age, dullness of mind and heart sets in.",
+	"name": "Jiddu Krishnamurti"
+}, {
+	"quote": "Intelligent life on a planet comes of age when it first works out the reason for its own existence.",
+	"name": "Richard Dawkins"
+}, {
+	"quote": "You know you're getting old when all the names in your black book have M. D. after them.",
+	"name": "Harrison Ford"
+}, {
+	"quote": "No matter what age you are, there's a lot of room for learning.",
+	"name": "Tony Bennett"
+}, {
+	"quote": "We are all geniuses up to the age of ten.",
+	"name": "Aldous Huxley"
+}, {
+	"quote": "Sure I played, did you think I was born at the age of 70 sitting in a dugout trying to manage guys like you?",
+	"name": "Casey Stengel"
+}, {
+	"quote": "You are the age of your spine. You are as flexible as your spine. That transfers to other areas of your life.",
+	"name": "Diane Lane"
+}, {
+	"quote": "Memory is the first casualty of middle age, if I remember correctly.",
+	"name": "Candice Bergen"
+}, {
+	"quote": "Wisdom doesn't necessarily come with age. Sometimes age just shows up all by itself.",
+	"name": "Tom Wilson"
+}, {
+	"quote": "The biggest disease this day and age is that of people feeling unloved.",
+	"name": "Princess Diana"
+}, {
+	"quote": "The human heart, at whatever age, opens only to the heart that opens in return.",
+	"name": "Maria Edgeworth"
+}, {
+	"quote": "Old age is an excellent time for outrage. My goal is to say or do at least one outrageous thing every week.",
+	"name": "Louis Kronenberger"
+}, {
+	"quote": "Like I said on my bio on my webpage, I was born at an early age, I was close to my mother.",
+	"name": "Peter Jurasik"
+}, {
+	"quote": "You know, from age 17 on, my paycheck was coming from cooking and working in kitchens.",
+	"name": "Anthony Bourdain"
+}, {
+	"quote": "We live in the Internet age. Everyone wants clicks. Clicks are what sells.",
+	"name": "Trevor Noah"
+}, {
+	"quote": "The enemy of society is middle class and the enemy of life is middle age.",
+	"name": "Orson Welles"
+}, {
+	"quote": "Young man, the secret of my success is that at early age I discovered that I was not God.",
+	"name": "Oliver Wendell Holmes, Jr."
+}, {
+	"quote": "I've been screaming at the top of my lungs at my family, 'Work out! Work out! Old age is coming!'",
+	"name": "Cher"
+}, {
+	"quote": "I don't feel old. I don't feel anything till noon. That's when it's time for my nap.",
+	"name": "Bob Hope"
+}, {
+	"quote": "The shades of respectability begin to close about the greying head.",
+	"name": "Mason Cooley"
+}, {
+	"quote": "For me, your real age is not the age on your ID. That's just a date when you were born.",
+	"name": "Jose Mourinho"
+}, {
+	"quote": "The surest sign of age is loneliness.",
+	"name": "Annie Dillard"
+}, {
+	"quote": "Ours is essentially a tragic age, so we refuse to take it tragically.",
+	"name": "D. H. Lawrence"
+}, {
+	"quote": "Ours is an excessively conscious age. We know so much, we feel so little.",
+	"name": "D. H. Lawrence"
+}, {
+	"quote": "No one can avoid aging, but aging productively is something else.",
+	"name": "Katharine Graham"
+}, {
+	"quote": "Age is how we determine how valuable you are.",
+	"name": "Jane Elliot"
+}, {
+	"quote": "Every time I paint a portrait I lose a friend.",
+	"name": "John Singer Sargent"
+}, {
+	"quote": "We in middle age require adventure.",
+	"name": "Carolyn Gold Heilbrun"
+}, {
+	"quote": "We were making the first step out of the age of chemistry and physics, and into the age of biology.",
+	"name": "Jeremy Rifkin"
+}, {
+	"quote": "I would prefer to be forgotten, then rediscovered in a different age.",
+	"name": "Bill Viola"
+}, {
+	"quote": "If I wrote a play with four characters every single one of them would talk like me regardless of age or sex.",
+	"name": "Norman MacCaig"
+}, {
+	"quote": "Responsibility for learning belongs to the student, regardless of age.",
+	"name": "Robert Martin"
+}, {
+	"quote": "By all but the pathologically romantic, it is now recognized that this is not the age of the small man.",
+	"name": "John Kenneth Galbraith"
+}, {
+	"quote": "Any young man who is unmarried at the age of twenty one is a menace to the community.",
+	"name": "Brigham Young"
+}, {
+	"quote": "Middle age is when you've met so many people that every new person you meet reminds you of someone else.",
+	"name": "Ogden Nash"
+}, {
+	"quote": "I think when the full horror of being fifty hits you, you should stay home and have a good cry.",
+	"name": "Josh Billings"
+}, {
+	"quote": "I've always hated authority from an early age. And authority have always hated me.",
+	"name": "Dr. Dre"
+}, {
+	"quote": "To me, old age is always fifteen years older than I am.",
+	"name": "Bernard Baruch"
+}, {
+	"quote": "Utility is the great idol of the age, to which all powers must do service and all talents swear allegiance.",
+	"name": "Friedrich Schiller"
+}, {
+	"quote": "We put so much pressure on kids to excel in school at such a young age.",
+	"name": "Caitlyn Jenner"
+}, {
+	"quote": "The aging process has you firmly in its grasp if you never get the urge to throw a snowball.",
+	"name": "Doug Larson"
+}, {
+	"quote": "The closing years of life are like the end of a masquerade party, when the masks are dropped.",
+	"name": "Cesare Pavese"
+}, {
+	"quote": "The really frightening thing about middle age is the knowledge that you'll grow out of it.",
+	"name": "Doris Day"
+}, {
+	"quote": "No matter our age, circumstances, or abilities, each one of us can create something remarkable of his life.",
+	"name": "Joseph B. Wirthlin"
+}, {
+	"quote": "I was a political junkie from an early age; I got a front row seat on something I love to do.",
+	"name": "Sarah Huckabee Sanders"
+}, {
+	"quote": "Old age is the verdict of life.",
+	"name": "Amelia Barr"
+}, {
+	"quote": "Whatever poet, orator or sage may say of it, old age is still old age.",
+	"name": "Sinclair Lewis"
+}, {
+	"quote": "One of the many pleasures of old age is giving things up.",
+	"name": "Malcolm Muggeridge"
+}, {
+	"quote": "He has a profound respect for old age. Especially when it's bottled.",
+	"name": "Gene Fowler"
+}, {
+	"quote": "At an age when most actresses are being phased out, I am being phased in - with a vengeance.",
+	"name": "Candice Bergen"
+}, {
+	"quote": "Man arrives as a novice at each age of his life.",
+	"name": "Nicolas Chamfort"
+}, {
+	"quote": "Age does not protect you from love. But love, to some extent, protects you from age.",
+	"name": "Jeanne Moreau"
+}, {
+	"quote": "There's no such thing as old age, there is only sorrow.",
+	"name": "Fay Weldon"
+}, {
+	"quote": "I was already, I think, at the age of 18, showing signs of being incompetent in the lab.",
+	"name": "Peter Higgs"
+}, {
+	"quote": "You don't stop laughing because you grow older. You grow older because you stop laughing.",
+	"name": "Maurice Chevalier"
+}, {
+	"quote": "It is a free world. It is a dynamic of our new day and age: technology is everywhere.",
+	"name": "Oscar Munoz"
+}, {
+	"quote": "After you're older, two things are possibly more important than any others: health and money.",
+	"name": "Helen Gurley Brown"
+}, {
+	"quote": "Heaven be thanked, we live in such an age when no man dies for love except upon the stage.",
+	"name": "John Osborne"
+}, {
+	"quote": "My age and my phone number are both unlisted.",
+	"name": "Robert Osborne"
+}, {
+	"quote": "I'm probably so out of it at my age that I don't know what people think.",
+	"name": "Sharon Olds"
+}, {
+	"quote": "I'm not afraid of aging.",
+	"name": "Shelley Duvall"
+}, {
+	"quote": "What's a dancer's worst enemy? Sometimes it's age, but sometimes it's the dancer themselves.",
+	"name": "Karen Kain"
+}, {
+	"quote": "There is no age limit on the enjoyment of sex. It keeps getting better.",
+	"name": "Florence Henderson"
+}, {
+	"quote": "Those who have no hope pass their old age shrouded with an inward gloom.",
+	"name": "Wilfred Owen"
+}, {
+	"quote": "Friends die, friends become demented, friends quarrel, friends drift with old age into silence.",
+	"name": "Donald Hall"
+}, {
+	"quote": "We virtually never feel our age, but thinking that we should can lead to disaster.",
+	"name": "Martha Beck"
+}, {
+	"quote": "To be renewed is everything. What more could one ask for than to have one's youth back again?",
+	"name": "George Lucas"
+}, {
+	"quote": "Politics is the one field you don't age out of.",
+	"name": "P. J. O'Rourke"
+}, {
+	"quote": "Being seventy is not a sin.",
+	"name": "Golda Meir"
+}, {
+	"quote": "Oh rage! Oh despair! Oh age, my enemy!",
+	"name": "Pierre Corneille"
+}, {
+	"quote": "I'm not interested in age. People who tell me their age are silly. You're as old as you feel.",
+	"name": "Henri Frederic Amiel"
+}, {
+	"quote": "We pay when old for the excesses of youth.",
+	"name": "J. B. Priestley"
+}, {
+	"quote": "Middle age is youth without levity, and age without decay.",
+	"name": "Doris Day"
+}, {
+	"quote": "What makes old age so sad is not that our joys but our hopes cease.",
+	"name": "Jean Paul"
+}, {
+	"quote": "Gray hairs seem to my fancy like the soft light of the moon, silvering over the evening of life.",
+	"name": "Jean Paul"
+}, {
+	"quote": "A woman must make her fortune before she is 30; or work after she is 30; or get married.",
+	"name": "Anna Held"
+}, {
+	"quote": "Youth does not require reasons for living, it only needs pretexts.",
+	"name": "Jose Ortega y Gasset"
+}, {
+	"quote": "Middle age is the time when a man is always thinking that in a week or two he will feel as good as ever.",
+	"name": "Don Marquis"
+}, {
+	"quote": "Age is not a particularly interesting subject. Anyone can get old. All you have to do is live long enough.",
+	"name": "Don Marquis"
+}, {
+	"quote": "While one finds company in himself and his pursuits, he cannot feel old, no matter what his years may be.",
+	"name": "Amos Bronson Alcott"
+}, {
+	"quote": "Age is like love, it cannot be hid.",
+	"name": "Thomas Dekker"
+}, {
+	"quote": "After thirty, a body has a mind of its own.",
+	"name": "Bette Midler"
+}, {
+	"quote": "It is sad to grow old but nice to ripen.",
+	"name": "Brigitte Bardot"
+}, {
+	"quote": "Youth is when you're allowed to stay up late on New Year's Eve. Middle age is when you're forced to.",
+	"name": "Bill Vaughan"
+}, {
+	"quote": "At 19, everything is possible and tomorrow looks friendly.",
+	"name": "Jim Bishop"
+}, {
+	"quote": "With age comes a greater understanding and a greater worldview.",
+	"name": "Michael Connelly"
+}, {
+	"quote": "Forty is the old age of youth, fifty is the youth of old age.",
+	"name": "Hosea Ballou"
+}, {
+	"quote": "Matching shoes and bags immediately age you by 10 years.",
+	"name": "Ines de La Fressange"
+}, {
+	"quote": "My notion of a wife at 40 is that a man should be able to change her, like a bank note, for two 20s.",
+	"name": "Warren Beatty"
+}, {
+	"quote": "You should never reveal your true age.",
+	"name": "Eve Arnold"
+}, {
+	"quote": "I played didgeridoo from a young age - on the vacuum cleaner, initially.",
+	"name": "Xavier Rudd"
+}, {
+	"quote": "When a noble life has prepared old age, it is not decline that it reveals, but the first days of immortality.",
+	"name": "Muriel Spark"
+}, {
+	"quote": "Be on the alert to recognize your prime at whatever time of your life it may occur.",
+	"name": "Muriel Spark"
+}, {
+	"quote": "We should bomb Vietnam back into the stone age.",
+	"name": "Curtis LeMay"
+}, {
+	"quote": "The real sadness of fifty is not that you change so much but that you change so little.",
+	"name": "Max Lerner"
+}, {
+	"quote": "I get all fired up about aging in America.",
+	"name": "Willard Scott"
+}, {
+	"quote": "The lovely thing about being forty is that you can appreciate twenty-five-year-old men more.",
+	"name": "Colleen McCullough"
+}, {
+	"quote": "I was very sexual from a very young age.",
+	"name": "Portia de Rossi"
+}, {
+	"quote": "No man is ever old enough to know better.",
+	"name": "Holbrook Jackson"
+}, {
+	"quote": "As you age naturally, your family shows more and more on your face. If you deny that, you deny your heritage.",
+	"name": "Frances Conroy"
+}, {
+	"quote": "The whole business of marshaling one's energies becomes more and more important as one grows older.",
+	"name": "Hume Cronyn"
+}, {
+	"quote": "There is an anti-aging possibility, but it has to come from within.",
+	"name": "Susan Anton"
+}]
